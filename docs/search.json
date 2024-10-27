@@ -74,7 +74,7 @@
     "href": "Workshop.html#a-function",
     "title": "How to get started with R",
     "section": "A Function",
-    "text": "A Function\n\nsample(x = 1:20, size = 2)\n\n\n\n[1] 18  3\n\n\n\nsample(1:20,2)\n\n\n\n[1] 18  9"
+    "text": "A Function\n\nsample(x = 1:20, size = 2)\n\n\n\n[1] 12 11\n\n\n\nsample(1:20,2)\n\n\n\n[1]  2 16"
   },
   {
     "objectID": "Workshop.html#common-data-types-and-how-to-import",
