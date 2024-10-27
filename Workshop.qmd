@@ -1,0 +1,608 @@
+---
+title: "How to get started with R"
+author: "Onthada Preedasawakul"
+institute: "King Mongkut’s University of Technology Thonburi"
+format:
+  revealjs:
+    slide-number: true
+    transition: slide
+    background-transition: zoom
+    theme: 
+      - default
+      - style.css
+    footer: "R x TH"
+title-slide-attributes: 
+  data-background-image: logo_final-01.png
+  data-background-size: 10%
+  data-background-position: 2% 2%
+---
+
+
+## What is R?
+
+R is a programming language for statistical computing and data visualization.
+
+![](IMG/R_logo.png){width="500" fig-align="center"}
+<br>
+[Reference:  <https://en.wikipedia.org/wiki/R_%28programming_language%29>]{.f60}
+
+## What is RStudio?
+
+RStudio is an integrated development environment (IDE) that provides an interface by adding many convenient features and tools.
+
+![](IMG/rstudio_icon.png){width="500" fig-align="center"}
+<br>
+[Reference:  <https://www.hertiecodingclub.com/learn/rstudio/install-r-studio/>]{.f60}
+
+## R vs. RStudio?
+
+At its simplest, R is like a car’s engine while RStudio is like a car’s dashboard.
+
+
+![](IMG/RandRstudio.png){width="1000" fig-align="center"}
+<br>
+[Reference: <https://moderndive.com/1-getting-started.html#r-rstudio>]{.f60}
+
+## Installing R and RStudio
+
+(@) Install R by going to [[R download](https://cran.r-project.org/)]{.pink}
+
+(@) Download and install RStudio at [RStudio download](https://posit.co/download/rstudio-desktop/){.pink}
+
+
+## Getting to know RStudio
+
+![](IMG/RStudio.png){width="500" fig-align="center"}
+
+## Basic R {.transition .center .center-align}
+
+
+## R as a calculator
+
+::: nonincremental 
+::: {.f80}
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Exponentiation (^)
+:::
+:::
+
+```{r, echo=TRUE}
+5+5
+10-5
+20*10
+4/2
+2^4
+```
+
+
+
+## Your Turn! {.transition .center .center-align}
+
+
+## Packages
+
+::: {.f80}
+- Packages are the [heart]{.red} of R.
+
+- Official R package is on the  Comprehensive R Archive Network (CRAN)
+::: 
+
+::: incremental
+![](IMG/app.png){width="300" fig-align="center"}
+
+[Reference:   <https://www.vecteezy.com/png/49657354-a-smartphone-with-colorful-squares-on-it>]{.f60}
+::: 
+
+## How to use Packages? 
+
+
+#### How to install?
+
+> [You only need to [install once]{.pink} on each computer or server.]{.f60}
+```{r, echo=TRUE,eval=FALSE}
+install.packages("ggplot2")
+```
+
+
+#### How to use packages?
+
+> [Make sure to always [load the library]{.pink} before using its functions.]{.f60}
+```{r, echo=TRUE,eval=FALSE}
+library(ggplot2)
+```
+
+
+## A Function
+
+```{r, echo=TRUE}
+#| output-location: fragment
+sample(x = 1:20, size = 2)
+```
+
+
+```{r, echo=TRUE}
+#| output-location: fragment
+sample(1:20,2)
+```
+
+
+## Common data types and how to import
+
+Common types of [data files]{.pink}
+
+- `.csv`: Comma-separated 
+```{r,echo=TRUE,eval=FALSE}
+my_csv_data = read.csv("name_of_files.csv")
+```
+
+- `.txt`: Plain text
+```{r,echo=TRUE,eval=FALSE}
+my_txt_data = read.table("name_of_files.txt",sep = ",")
+```
+
+- `.xls` or `xlsx`: Microsoft Excel Spreadsheet
+```{r,eval=FALSE,echo=TRUE}
+install.packages("readxl")
+library(readxl)
+
+my_excel_data = read_excel("name_of_files.xlsx")
+```
+
+
+## Your Turn! 
+
+Go to this folder: [Data]()
+
+Save these in your working directory, then 
+
+1. Read "score.csv"
+2. Read "score_comma.txt"
+3. Read "score.xlsx"
+
+
+# Exploring the data {.transition .center .center-align}
+
+## Basic of dplyr 
+
+![](IMG/dplyr.jpg){width="700" fig-align="center"}
+
+[Reference:  <https://posit.co/blog/introducing-dplyr/>]{.f60}
+
+
+## Prerequisite 
+
+- The pipe, %>%, comes from the `magrittr` package (install with tidyverse)
+- The point of the pipe is to help you write code in a way that is easier to read and understand. 
+- Code should read like a sentence
+
+
+
+
+## The pipe
+
+```{r, echo=TRUE,eval=FALSE}
+Krai |> 
+  cry_now()
+```
+**is the same as** 
+```{r, echo=TRUE,eval=FALSE}
+cry_now(Krai)
+```
+
+<br>
+```{r, echo=TRUE,eval=FALSE}
+Krai |>
+  cry_now() |> 
+  sing_a_song(name = "ABC")
+```
+**is the same as**
+```{r, echo=TRUE,eval=FALSE}
+sing_a_song(cry_now(Krai),name = "ABC")
+```
+
+
+## 
+
+![](IMG/pipe.png){width="700" fig-align="center"}
+<br>
+[Reference: <https://www.rforecology.com/post/how-to-use-pipes/>]{.f60}
+
+## The pipe 
+
+```{r, echo=TRUE,warning=FALSE}
+library(dplyr)
+library(tidyverse)
+# Convert to data frame 
+starwars = starwars |> 
+  select(name,height,mass,hair_color,skin_color,species)|> 
+  as.data.frame()
+starwars
+```
+
+
+## Dimension of the data 
+
+:::: {.columns}
+
+::: {.column width="40%"}
+```{r,echo=FALSE}
+data = matrix(c(1,2,3,4,
+                5,6,7,8),ncol = 4,byrow = T)
+```
+
+```{r,echo=TRUE}
+data
+```
+
+:::
+
+::: {.column width="50%"}
+```{r,echo=TRUE}
+data |> dim()
+dim(data)
+```
+:::
+::::
+
+
+## Cleaning Data 
+
+The best solution is... but one simple option is to [DROP]{.red} them.
+
+- Count the number of missing values 
+
+```{r, echo=TRUE}
+starwars |> 
+  is.na() |> 
+  sum()
+```
+
+**is the same as**
+
+```{r,echo=TRUE,eval=TRUE}
+sum(is.na(starwars))
+```
+
+## Cleaning Data 
+
+- Remove the rows with [NA]{.red} values
+
+```{r,echo=TRUE}
+starwars = starwars |> 
+          drop_na()
+```
+
+**is the same as**
+
+```{r, echo=TRUE}
+starwars = drop_na(starwars)
+```
+
+
+## Summary of the data {.scrollable}
+
+- Function: [`summary()`]{.pink} 
+
+```{r,echo=TRUE,eval=FALSE}
+starwars |> 
+  summary()
+```
+**is the same as**
+
+```{r, echo=TRUE}
+summary(starwars)
+```
+
+
+## Summarize the data using specific column 
+
+- Function: [`summarise()`]{.pink} 
+
+```{r,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  summarise(mean(height))
+```
+
+```{r, echo=TRUE}
+#| output-location: fragment
+#| code-line-numbers: "2"
+starwars |> 
+  summarise(mean_Height = mean(height))
+```
+
+
+## Summarizing with specific multiple columns
+
+- Function: [`across()`]{.pink} 
+- Action: Apply a function (or functions) across multiple columns
+
+```{r,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  summarise(across(c(height,mass),
+                   list(sd,mean)))
+```
+
+
+## Group by 
+
+- Function: [`group_by()`]{.pink} 
+- Action: Group by one or more variables
+
+```{r,echo=TRUE}
+#| code-line-numbers: "2"
+#| output-location: fragment
+starwars |> 
+  group_by(species) |> 
+  summarise(n())
+```
+
+
+## Selecting 
+
+- Function: [`select()`]{.pink} 
+- Action: Select the variables you would like to keep in the dataset
+
+```{r, echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  select(name, species) 
+```
+
+
+## Filtering {.scrollable}
+
+- Function: [`filter()`]{.pink} 
+- Action: Filter the rows that match the condition you're looking for
+
+```{r, echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  filter(species == "Human")
+```
+
+
+```{r, echo=TRUE}
+#| code-line-numbers: "3"
+#| output-location: fragment
+
+starwars |> 
+  select(name,species,height) |> 
+  filter(height > 200)
+```
+
+## Arrange {.scrollable}
+
+- Function: [`arrange()`]{.pink} 
+- Action: Order rows using column values
+
+```{r,echo=TRUE}
+#| output-location: fragment
+#| code-line-numbers: "2"
+starwars |> 
+  arrange(mass) |> 
+  select(name, height, mass, species) |> 
+  head(6)
+```
+
+```{r,echo=TRUE}
+#| code-line-numbers: "2"
+#| output-location: fragment
+
+starwars |> 
+  arrange(desc(mass)) |> 
+  select(name, height, mass, species) |> 
+  head(6)
+```
+
+
+
+## The pipe 
+
+What do you think will happen with the following code?
+
+```{r, echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  filter(species == "Human") |> 
+  arrange(height)
+```
+
+
+## Making new variables 
+
+- Function: [`mutate()`]{.pink} 
+- Action: Create, modify, and delete columns
+
+```{r,echo=TRUE}
+#| output-location: fragment
+#| code-line-numbers: "2"
+starwars |>  
+  mutate(BMI = mass / (height / 100)^2) |> 
+  select(name,species,height,mass,BMI)
+```
+
+
+## What happened?? 
+
+```{r, error=TRUE,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  summarise(mean(BMI))
+```
+
+
+## Assignment operator
+
+```{r, echo=TRUE}
+#| output-location: fragment
+#| code-line-numbers: "1"
+starwars = starwars |> 
+              mutate(BMI = mass/(height/100)^2)
+
+starwars |> 
+  summarise(mean(BMI))
+```
+
+
+```{r,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  filter(height>200) |> 
+  select(name, BMI)
+```
+
+
+## Your Turn! {.transition .center .center-align}
+
+1. Import a new dataset called [`Scooby-Doo.csv`]{.red}
+2. Does the dataset contain missing values? If it does, drop them.
+3. Which season has the [most]{.red} monsters? 
+4. Which season has the [highest]{.red} IMDB score?
+
+Source: The data is from  [kaggle](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete/data?select=Scooby-Doo+Completed.csv)
+
+
+
+## Beyond our workshop {.transition .center .center-align}
+
+## Head 
+
+- Function: [`head()`]{.pink} 
+- Action: View the first [x]{.red} rows of the dataset
+
+```{r,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  head(3)
+```
+
+*is the same as*
+```{r,echo=TRUE}
+#| output-location: fragment
+head(starwars,3)
+```
+
+# Tail  
+
+- Function: [`last()`]{.pink} 
+- Action: View the last [x]{.red} rows of the dataset
+
+```{r,echo=TRUE}
+#| output-location: fragment
+starwars |> 
+  tail(3)
+```
+
+```{r,echo=TRUE}
+#| output-location: fragment
+tail(starwars,3)
+```
+
+
+## Top_n 
+
+- Function: [`top_n()`]{.pink} 
+- Action: Select top (or bottom) n rows (by value) 
+
+```{r, echo=TRUE}
+#| output-location: fragment
+#| code-line-numbers: "2"
+# Highest value
+starwars |> 
+  top_n(3, height) |> 
+  select(name, species, height)
+```
+
+```{r, echo=TRUE}
+#| code-line-numbers: "2"
+#| output-location: fragment
+
+# Lowest value
+starwars |> 
+  top_n(-3,height) |> 
+  select(name, species, height)
+```
+
+
+## Plotting
+
+```{r,echo=TRUE}
+#| code-line-numbers: "3-4"
+starwars |> 
+  filter(species == "Human") |> 
+  ggplot(aes(x = height))+
+  geom_histogram(bins = 5)
+```
+
+## Plotting
+
+```{r,echo=TRUE}
+#| code-line-numbers: "5" 
+starwars |> 
+  filter(species == "Human") |> 
+  ggplot(aes(x = height))+
+  geom_histogram(bins = 5)+
+  theme_minimal()
+```
+
+
+## Strenghts
+
+- R provides a wide variety of statistical analysis
+- Graphical tools for data analysis
+- A well-developed, simple, and effective program
+
+## Weaknesses
+
+- There are many restrictions with R as it cannot be embedded in a web-application
+- Numerical computation
+
+
+## 
+![](IMG/rpackage.jpg){width="800" fig-align="center"}
+<br>
+[Reference:   <https://www.raulthinks.com/posts/all-about-r-mutual-love/>]{.f60}
+
+## Shinny Apps
+
+
+:::: {.columns}
+::: {.column width="20%"}
+![](IMG/shinyicon.png){width="300" fig-align="center"}
+:::
+::: {.column width="80%"}
+![](IMG/shinyapp.png){width="700" fig-align="center"}
+:::
+::::
+
+[Reference:   <https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html>]{.f60}
+
+## R markdown
+
+:::: {.columns}
+::: {.column width="20%"}
+![](IMG/rmarkdown icon.png){width="300" fig-align="center"}
+:::
+::: {.column width="80%"}
+![](IMG/rmarkdown.png){width="700" fig-align="center"}
+:::
+::::
+
+<br>
+[Reference:  <https://rmarkdown.rstudio.com/lesson-13.html>]{.f60}
+
+
+## References
+
+- <https://en.wikipedia.org/wiki/R_(programming_language)>
+
+- <https://moderndive.com/1-getting-started.html#r-rstudio>
+
+- <https://www.rforecology.com/post/how-to-use-pipes/>
+
+## Thank you {.transition .center .center-align}
