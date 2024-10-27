@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "Workshop.html#what-is-r",
+    "href": "Workshop.html#what-is-r",
+    "title": "How to get started with R",
+    "section": "What is R?",
+    "text": "What is R?\nR is a programming language for statistical computing and data visualization.\n  Reference: https://en.wikipedia.org/wiki/R_%28programming_language%29"
+  },
+  {
+    "objectID": "Workshop.html#what-is-rstudio",
+    "href": "Workshop.html#what-is-rstudio",
+    "title": "How to get started with R",
+    "section": "What is RStudio?",
+    "text": "What is RStudio?\nRStudio is an integrated development environment (IDE) that provides an interface by adding many convenient features and tools.\n  Reference: https://www.hertiecodingclub.com/learn/rstudio/install-r-studio/"
+  },
+  {
+    "objectID": "Workshop.html#r-vs.-rstudio",
+    "href": "Workshop.html#r-vs.-rstudio",
+    "title": "How to get started with R",
+    "section": "R vs. RStudio?",
+    "text": "R vs. RStudio?\nAt its simplest, R is like a car’s engine while RStudio is like a car’s dashboard.\n  Reference: https://moderndive.com/1-getting-started.html#r-rstudio"
+  },
+  {
+    "objectID": "Workshop.html#installing-r-and-rstudio",
+    "href": "Workshop.html#installing-r-and-rstudio",
+    "title": "How to get started with R",
+    "section": "Installing R and RStudio",
+    "text": "Installing R and RStudio\n\nInstall R by going to R download\nDownload and install RStudio at RStudio download"
+  },
+  {
+    "objectID": "Workshop.html#getting-to-know-rstudio",
+    "href": "Workshop.html#getting-to-know-rstudio",
+    "title": "How to get started with R",
+    "section": "Getting to know RStudio",
+    "text": "Getting to know RStudio"
+  },
+  {
+    "objectID": "Workshop.html#basic-r",
+    "href": "Workshop.html#basic-r",
+    "title": "How to get started with R",
+    "section": "Basic R",
+    "text": "Basic R"
+  },
+  {
+    "objectID": "Workshop.html#r-as-a-calculator",
+    "href": "Workshop.html#r-as-a-calculator",
+    "title": "How to get started with R",
+    "section": "R as a calculator",
+    "text": "R as a calculator\n\n\n\nAddition (+)\nSubtraction (-)\nMultiplication (*)\nDivision (/)\nExponentiation (^)\n\n\n\n\n5+5\n\n[1] 10\n\n10-5\n\n[1] 5\n\n20*10\n\n[1] 200\n\n4/2\n\n[1] 2\n\n2^4\n\n[1] 16"
+  },
+  {
+    "objectID": "Workshop.html#your-turn",
+    "href": "Workshop.html#your-turn",
+    "title": "How to get started with R",
+    "section": "Your Turn!",
+    "text": "Your Turn!"
+  },
+  {
+    "objectID": "Workshop.html#packages",
+    "href": "Workshop.html#packages",
+    "title": "How to get started with R",
+    "section": "Packages",
+    "text": "Packages\n\n\nPackages are the heart of R.\nOfficial R package is on the Comprehensive R Archive Network (CRAN)\n\n\n\n\n\n\n\n\nReference: https://www.vecteezy.com/png/49657354-a-smartphone-with-colorful-squares-on-it"
+  },
+  {
+    "objectID": "Workshop.html#how-to-use-packages",
+    "href": "Workshop.html#how-to-use-packages",
+    "title": "How to get started with R",
+    "section": "How to use Packages?",
+    "text": "How to use Packages?\nHow to install?\n\nYou only need to install once on each computer or server.\n\n\ninstall.packages(\"ggplot2\")\n\nHow to use packages?\n\nMake sure to always load the library before using its functions.\n\n\nlibrary(ggplot2)"
+  },
+  {
+    "objectID": "Workshop.html#a-function",
+    "href": "Workshop.html#a-function",
+    "title": "How to get started with R",
+    "section": "A Function",
+    "text": "A Function\n\nsample(x = 1:20, size = 2)\n\n\n\n[1] 18  3\n\n\n\nsample(1:20,2)\n\n\n\n[1] 18  9"
+  },
+  {
+    "objectID": "Workshop.html#common-data-types-and-how-to-import",
+    "href": "Workshop.html#common-data-types-and-how-to-import",
+    "title": "How to get started with R",
+    "section": "Common data types and how to import",
+    "text": "Common data types and how to import\nCommon types of data files\n\n.csv: Comma-separated\n\n\nmy_csv_data = read.csv(\"name_of_files.csv\")\n\n\n.txt: Plain text\n\n\nmy_txt_data = read.table(\"name_of_files.txt\",sep = \",\")\n\n\n.xls or xlsx: Microsoft Excel Spreadsheet\n\n\ninstall.packages(\"readxl\")\nlibrary(readxl)\n\nmy_excel_data = read_excel(\"name_of_files.xlsx\")"
+  },
+  {
+    "objectID": "Workshop.html#your-turn-1",
+    "href": "Workshop.html#your-turn-1",
+    "title": "How to get started with R",
+    "section": "Your Turn!",
+    "text": "Your Turn!\nGo to this folder: Data\nSave these in your working directory, then\n\nRead “score.csv”\nRead “score_comma.txt”\nRead “score.xlsx”"
+  },
+  {
+    "objectID": "Workshop.html#basic-of-dplyr",
+    "href": "Workshop.html#basic-of-dplyr",
+    "title": "How to get started with R",
+    "section": "Basic of dplyr",
+    "text": "Basic of dplyr\n\nReference: https://posit.co/blog/introducing-dplyr/"
+  },
+  {
+    "objectID": "Workshop.html#prerequisite",
+    "href": "Workshop.html#prerequisite",
+    "title": "How to get started with R",
+    "section": "Prerequisite",
+    "text": "Prerequisite\n\nThe pipe, %&gt;%, comes from the magrittr package (install with tidyverse)\nThe point of the pipe is to help you write code in a way that is easier to read and understand.\nCode should read like a sentence"
+  },
+  {
+    "objectID": "Workshop.html#the-pipe",
+    "href": "Workshop.html#the-pipe",
+    "title": "How to get started with R",
+    "section": "The pipe",
+    "text": "The pipe\n\nKrai |&gt; \n  cry_now()\n\nis the same as\n\ncry_now(Krai)\n\n\n\nKrai |&gt;\n  cry_now() |&gt; \n  sing_a_song(name = \"ABC\")\n\nis the same as\n\nsing_a_song(cry_now(Krai),name = \"ABC\")"
+  },
+  {
+    "objectID": "Workshop.html#section",
+    "href": "Workshop.html#section",
+    "title": "How to get started with R",
+    "section": "",
+    "text": "Reference: https://www.rforecology.com/post/how-to-use-pipes/"
+  },
+  {
+    "objectID": "Workshop.html#the-pipe-1",
+    "href": "Workshop.html#the-pipe-1",
+    "title": "How to get started with R",
+    "section": "The pipe",
+    "text": "The pipe\n\nlibrary(dplyr)\nlibrary(tidyverse)\n# Convert to data frame \nstarwars = starwars |&gt; \n  select(name,height,mass,hair_color,skin_color,species)|&gt; \n  as.data.frame()\nstarwars\n\n                    name height   mass    hair_color          skin_color\n1         Luke Skywalker    172   77.0         blond                fair\n2                  C-3PO    167   75.0          &lt;NA&gt;                gold\n3                  R2-D2     96   32.0          &lt;NA&gt;         white, blue\n4            Darth Vader    202  136.0          none               white\n5            Leia Organa    150   49.0         brown               light\n6              Owen Lars    178  120.0   brown, grey               light\n7     Beru Whitesun Lars    165   75.0         brown               light\n8                  R5-D4     97   32.0          &lt;NA&gt;          white, red\n9      Biggs Darklighter    183   84.0         black               light\n10        Obi-Wan Kenobi    182   77.0 auburn, white                fair\n11      Anakin Skywalker    188   84.0         blond                fair\n12        Wilhuff Tarkin    180     NA  auburn, grey                fair\n13             Chewbacca    228  112.0         brown             unknown\n14              Han Solo    180   80.0         brown                fair\n15                Greedo    173   74.0          &lt;NA&gt;               green\n16 Jabba Desilijic Tiure    175 1358.0          &lt;NA&gt;    green-tan, brown\n17        Wedge Antilles    170   77.0         brown                fair\n18      Jek Tono Porkins    180  110.0         brown                fair\n19                  Yoda     66   17.0         white               green\n20             Palpatine    170   75.0          grey                pale\n21             Boba Fett    183   78.2         black                fair\n22                 IG-88    200  140.0          none               metal\n23                 Bossk    190  113.0          none               green\n24      Lando Calrissian    177   79.0         black                dark\n25                 Lobot    175   79.0          none               light\n26                Ackbar    180   83.0          none        brown mottle\n27            Mon Mothma    150     NA        auburn                fair\n28          Arvel Crynyd     NA     NA         brown                fair\n29 Wicket Systri Warrick     88   20.0         brown               brown\n30             Nien Nunb    160   68.0          none                grey\n31          Qui-Gon Jinn    193   89.0         brown                fair\n32           Nute Gunray    191   90.0          none       mottled green\n33         Finis Valorum    170     NA         blond                fair\n34         Padmé Amidala    185   45.0         brown               light\n35         Jar Jar Binks    196   66.0          none              orange\n36          Roos Tarpals    224   82.0          none                grey\n37            Rugor Nass    206     NA          none               green\n38              Ric Olié    183     NA         brown                fair\n39                 Watto    137     NA         black          blue, grey\n40               Sebulba    112   40.0          none           grey, red\n41         Quarsh Panaka    183     NA         black                dark\n42        Shmi Skywalker    163     NA         black                fair\n43            Darth Maul    175   80.0          none                 red\n44           Bib Fortuna    180     NA          none                pale\n45           Ayla Secura    178   55.0          none                blue\n46          Ratts Tyerel     79   15.0          none          grey, blue\n47              Dud Bolt     94   45.0          none          blue, grey\n48               Gasgano    122     NA          none         white, blue\n49        Ben Quadinaros    163   65.0          none grey, green, yellow\n50            Mace Windu    188   84.0          none                dark\n51          Ki-Adi-Mundi    198   82.0         white                pale\n52             Kit Fisto    196   87.0          none               green\n53             Eeth Koth    171     NA         black               brown\n54            Adi Gallia    184   50.0          none                dark\n55           Saesee Tiin    188     NA          none                pale\n56           Yarael Poof    264     NA          none               white\n57              Plo Koon    188   80.0          none              orange\n58            Mas Amedda    196     NA          none                blue\n59          Gregar Typho    185   85.0         black                dark\n60                 Cordé    157     NA         brown               light\n61           Cliegg Lars    183     NA         brown                fair\n62     Poggle the Lesser    183   80.0          none               green\n63       Luminara Unduli    170   56.2         black              yellow\n64         Barriss Offee    166   50.0         black              yellow\n65                 Dormé    165     NA         brown               light\n66                 Dooku    193   80.0         white                fair\n67   Bail Prestor Organa    191     NA         black                 tan\n68            Jango Fett    183   79.0         black                 tan\n69            Zam Wesell    168   55.0        blonde fair, green, yellow\n70       Dexter Jettster    198  102.0          none               brown\n71               Lama Su    229   88.0          none                grey\n72               Taun We    213     NA          none                grey\n73            Jocasta Nu    167     NA         white                fair\n74                R4-P17     96     NA          none         silver, red\n75            Wat Tambor    193   48.0          none         green, grey\n76              San Hill    191     NA          none                grey\n77              Shaak Ti    178   57.0          none    red, blue, white\n78              Grievous    216  159.0          none        brown, white\n79               Tarfful    234  136.0         brown               brown\n80       Raymus Antilles    188   79.0         brown               light\n81             Sly Moore    178   48.0          none                pale\n82            Tion Medon    206   80.0          none                grey\n83                  Finn     NA     NA         black                dark\n84                   Rey     NA     NA         brown               light\n85           Poe Dameron     NA     NA         brown               light\n86                   BB8     NA     NA          none                none\n87        Captain Phasma     NA     NA          none                none\n          species\n1           Human\n2           Droid\n3           Droid\n4           Human\n5           Human\n6           Human\n7           Human\n8           Droid\n9           Human\n10          Human\n11          Human\n12          Human\n13        Wookiee\n14          Human\n15         Rodian\n16           Hutt\n17          Human\n18           &lt;NA&gt;\n19 Yoda's species\n20          Human\n21          Human\n22          Droid\n23     Trandoshan\n24          Human\n25          Human\n26   Mon Calamari\n27          Human\n28          Human\n29           Ewok\n30      Sullustan\n31          Human\n32      Neimodian\n33          Human\n34          Human\n35         Gungan\n36         Gungan\n37         Gungan\n38          Human\n39      Toydarian\n40            Dug\n41          Human\n42          Human\n43         Zabrak\n44        Twi'lek\n45        Twi'lek\n46         Aleena\n47     Vulptereen\n48          Xexto\n49          Toong\n50          Human\n51         Cerean\n52       Nautolan\n53         Zabrak\n54     Tholothian\n55       Iktotchi\n56       Quermian\n57        Kel Dor\n58       Chagrian\n59           &lt;NA&gt;\n60           &lt;NA&gt;\n61          Human\n62      Geonosian\n63       Mirialan\n64       Mirialan\n65          Human\n66          Human\n67          Human\n68          Human\n69       Clawdite\n70       Besalisk\n71       Kaminoan\n72       Kaminoan\n73          Human\n74          Droid\n75        Skakoan\n76           Muun\n77        Togruta\n78        Kaleesh\n79        Wookiee\n80          Human\n81           &lt;NA&gt;\n82         Pau'an\n83          Human\n84          Human\n85          Human\n86          Droid\n87          Human"
+  },
+  {
+    "objectID": "Workshop.html#dimension-of-the-data",
+    "href": "Workshop.html#dimension-of-the-data",
+    "title": "How to get started with R",
+    "section": "Dimension of the data",
+    "text": "Dimension of the data\n\n\n\ndata\n\n     [,1] [,2] [,3] [,4]\n[1,]    1    2    3    4\n[2,]    5    6    7    8\n\n\n\n\ndata |&gt; dim()\n\n[1] 2 4\n\ndim(data)\n\n[1] 2 4"
+  },
+  {
+    "objectID": "Workshop.html#cleaning-data",
+    "href": "Workshop.html#cleaning-data",
+    "title": "How to get started with R",
+    "section": "Cleaning Data",
+    "text": "Cleaning Data\nThe best solution is… but one simple option is to DROP them.\n\nCount the number of missing values\n\n\nstarwars |&gt; \n  is.na() |&gt; \n  sum()\n\n[1] 43\n\n\nis the same as\n\nsum(is.na(starwars))\n\n[1] 43"
+  },
+  {
+    "objectID": "Workshop.html#cleaning-data-1",
+    "href": "Workshop.html#cleaning-data-1",
+    "title": "How to get started with R",
+    "section": "Cleaning Data",
+    "text": "Cleaning Data\n\nRemove the rows with NA values\n\n\nstarwars = starwars |&gt; \n          drop_na()\n\nis the same as\n\nstarwars = drop_na(starwars)"
+  },
+  {
+    "objectID": "Workshop.html#summary-of-the-data",
+    "href": "Workshop.html#summary-of-the-data",
+    "title": "How to get started with R",
+    "section": "Summary of the data",
+    "text": "Summary of the data\n\nFunction: summary()\n\n\nstarwars |&gt; \n  summary()\n\nis the same as\n\nsummary(starwars)\n\n     name               height           mass         hair_color       \n Length:51          Min.   : 66.0   Min.   : 15.00   Length:51         \n Class :character   1st Qu.:170.0   1st Qu.: 56.60   Class :character  \n Mode  :character   Median :183.0   Median : 79.00   Mode  :character  \n                    Mean   :177.2   Mean   : 77.01                     \n                    3rd Qu.:193.0   3rd Qu.: 84.00                     \n                    Max.   :234.0   Max.   :159.00                     \n  skin_color          species         \n Length:51          Length:51         \n Class :character   Class :character  \n Mode  :character   Mode  :character"
+  },
+  {
+    "objectID": "Workshop.html#summarize-the-data-using-specific-column",
+    "href": "Workshop.html#summarize-the-data-using-specific-column",
+    "title": "How to get started with R",
+    "section": "Summarize the data using specific column",
+    "text": "Summarize the data using specific column\n\nFunction: summarise()\n\n\nstarwars |&gt; \n  summarise(mean(height))\n\n\n\n  mean(height)\n1     177.1765\n\n\n\nstarwars |&gt; \n  summarise(mean_Height = mean(height))\n\n\n\n  mean_Height\n1    177.1765"
+  },
+  {
+    "objectID": "Workshop.html#summarizing-with-specific-multiple-columns",
+    "href": "Workshop.html#summarizing-with-specific-multiple-columns",
+    "title": "How to get started with R",
+    "section": "Summarizing with specific multiple columns",
+    "text": "Summarizing with specific multiple columns\n\nFunction: across()\nAction: Apply a function (or functions) across multiple columns\n\n\nstarwars |&gt; \n  summarise(across(c(height,mass),\n                   list(sd,mean)))\n\n\n\n  height_1 height_2   mass_1   mass_2\n1 34.78546 177.1765 29.26981 77.00784"
+  },
+  {
+    "objectID": "Workshop.html#group-by",
+    "href": "Workshop.html#group-by",
+    "title": "How to get started with R",
+    "section": "Group by",
+    "text": "Group by\n\nFunction: group_by()\nAction: Group by one or more variables\n\n\nstarwars |&gt; \n  group_by(species) |&gt; \n  summarise(n())\n\n\n\n# A tibble: 29 × 2\n   species   `n()`\n   &lt;chr&gt;     &lt;int&gt;\n 1 Aleena        1\n 2 Besalisk      1\n 3 Cerean        1\n 4 Clawdite      1\n 5 Droid         1\n 6 Dug           1\n 7 Ewok          1\n 8 Geonosian     1\n 9 Gungan        2\n10 Human        20\n# ℹ 19 more rows"
+  },
+  {
+    "objectID": "Workshop.html#selecting",
+    "href": "Workshop.html#selecting",
+    "title": "How to get started with R",
+    "section": "Selecting",
+    "text": "Selecting\n\nFunction: select()\nAction: Select the variables you would like to keep in the dataset\n\n\nstarwars |&gt; \n  select(name, species) \n\n\n\n                    name        species\n1         Luke Skywalker          Human\n2            Darth Vader          Human\n3            Leia Organa          Human\n4              Owen Lars          Human\n5     Beru Whitesun Lars          Human\n6      Biggs Darklighter          Human\n7         Obi-Wan Kenobi          Human\n8       Anakin Skywalker          Human\n9              Chewbacca        Wookiee\n10              Han Solo          Human\n11        Wedge Antilles          Human\n12                  Yoda Yoda's species\n13             Palpatine          Human\n14             Boba Fett          Human\n15                 IG-88          Droid\n16                 Bossk     Trandoshan\n17      Lando Calrissian          Human\n18                 Lobot          Human\n19                Ackbar   Mon Calamari\n20 Wicket Systri Warrick           Ewok\n21             Nien Nunb      Sullustan\n22          Qui-Gon Jinn          Human\n23           Nute Gunray      Neimodian\n24         Padmé Amidala          Human\n25         Jar Jar Binks         Gungan\n26          Roos Tarpals         Gungan\n27               Sebulba            Dug\n28            Darth Maul         Zabrak\n29           Ayla Secura        Twi'lek\n30          Ratts Tyerel         Aleena\n31              Dud Bolt     Vulptereen\n32        Ben Quadinaros          Toong\n33            Mace Windu          Human\n34          Ki-Adi-Mundi         Cerean\n35             Kit Fisto       Nautolan\n36            Adi Gallia     Tholothian\n37              Plo Koon        Kel Dor\n38     Poggle the Lesser      Geonosian\n39       Luminara Unduli       Mirialan\n40         Barriss Offee       Mirialan\n41                 Dooku          Human\n42            Jango Fett          Human\n43            Zam Wesell       Clawdite\n44       Dexter Jettster       Besalisk\n45               Lama Su       Kaminoan\n46            Wat Tambor        Skakoan\n47              Shaak Ti        Togruta\n48              Grievous        Kaleesh\n49               Tarfful        Wookiee\n50       Raymus Antilles          Human\n51            Tion Medon         Pau'an"
+  },
+  {
+    "objectID": "Workshop.html#filtering",
+    "href": "Workshop.html#filtering",
+    "title": "How to get started with R",
+    "section": "Filtering",
+    "text": "Filtering\n\nFunction: filter()\nAction: Filter the rows that match the condition you’re looking for\n\n\nstarwars |&gt; \n  filter(species == \"Human\")\n\n\n\n                 name height  mass    hair_color skin_color species\n1      Luke Skywalker    172  77.0         blond       fair   Human\n2         Darth Vader    202 136.0          none      white   Human\n3         Leia Organa    150  49.0         brown      light   Human\n4           Owen Lars    178 120.0   brown, grey      light   Human\n5  Beru Whitesun Lars    165  75.0         brown      light   Human\n6   Biggs Darklighter    183  84.0         black      light   Human\n7      Obi-Wan Kenobi    182  77.0 auburn, white       fair   Human\n8    Anakin Skywalker    188  84.0         blond       fair   Human\n9            Han Solo    180  80.0         brown       fair   Human\n10     Wedge Antilles    170  77.0         brown       fair   Human\n11          Palpatine    170  75.0          grey       pale   Human\n12          Boba Fett    183  78.2         black       fair   Human\n13   Lando Calrissian    177  79.0         black       dark   Human\n14              Lobot    175  79.0          none      light   Human\n15       Qui-Gon Jinn    193  89.0         brown       fair   Human\n16      Padmé Amidala    185  45.0         brown      light   Human\n17         Mace Windu    188  84.0          none       dark   Human\n18              Dooku    193  80.0         white       fair   Human\n19         Jango Fett    183  79.0         black        tan   Human\n20    Raymus Antilles    188  79.0         brown      light   Human\n\n\n\nstarwars |&gt; \n  select(name,species,height) |&gt; \n  filter(height &gt; 200)\n\n\n\n          name  species height\n1  Darth Vader    Human    202\n2    Chewbacca  Wookiee    228\n3 Roos Tarpals   Gungan    224\n4      Lama Su Kaminoan    229\n5     Grievous  Kaleesh    216\n6      Tarfful  Wookiee    234\n7   Tion Medon   Pau'an    206"
+  },
+  {
+    "objectID": "Workshop.html#arrange",
+    "href": "Workshop.html#arrange",
+    "title": "How to get started with R",
+    "section": "Arrange",
+    "text": "Arrange\n\nFunction: arrange()\nAction: Order rows using column values\n\n\nstarwars |&gt; \n  arrange(mass) |&gt; \n  select(name, height, mass, species) |&gt; \n  head(6)\n\n\n\n                   name height mass        species\n1          Ratts Tyerel     79   15         Aleena\n2                  Yoda     66   17 Yoda's species\n3 Wicket Systri Warrick     88   20           Ewok\n4               Sebulba    112   40            Dug\n5         Padmé Amidala    185   45          Human\n6              Dud Bolt     94   45     Vulptereen\n\n\n\nstarwars |&gt; \n  arrange(desc(mass)) |&gt; \n  select(name, height, mass, species) |&gt; \n  head(6)\n\n\n\n         name height mass    species\n1    Grievous    216  159    Kaleesh\n2       IG-88    200  140      Droid\n3 Darth Vader    202  136      Human\n4     Tarfful    234  136    Wookiee\n5   Owen Lars    178  120      Human\n6       Bossk    190  113 Trandoshan"
+  },
+  {
+    "objectID": "Workshop.html#the-pipe-2",
+    "href": "Workshop.html#the-pipe-2",
+    "title": "How to get started with R",
+    "section": "The pipe",
+    "text": "The pipe\nWhat do you think will happen with the following code?\n\nstarwars |&gt; \n  filter(species == \"Human\") |&gt; \n  arrange(height)\n\n\n\n                 name height  mass    hair_color skin_color species\n1         Leia Organa    150  49.0         brown      light   Human\n2  Beru Whitesun Lars    165  75.0         brown      light   Human\n3      Wedge Antilles    170  77.0         brown       fair   Human\n4           Palpatine    170  75.0          grey       pale   Human\n5      Luke Skywalker    172  77.0         blond       fair   Human\n6               Lobot    175  79.0          none      light   Human\n7    Lando Calrissian    177  79.0         black       dark   Human\n8           Owen Lars    178 120.0   brown, grey      light   Human\n9            Han Solo    180  80.0         brown       fair   Human\n10     Obi-Wan Kenobi    182  77.0 auburn, white       fair   Human\n11  Biggs Darklighter    183  84.0         black      light   Human\n12          Boba Fett    183  78.2         black       fair   Human\n13         Jango Fett    183  79.0         black        tan   Human\n14      Padmé Amidala    185  45.0         brown      light   Human\n15   Anakin Skywalker    188  84.0         blond       fair   Human\n16         Mace Windu    188  84.0          none       dark   Human\n17    Raymus Antilles    188  79.0         brown      light   Human\n18       Qui-Gon Jinn    193  89.0         brown       fair   Human\n19              Dooku    193  80.0         white       fair   Human\n20        Darth Vader    202 136.0          none      white   Human"
+  },
+  {
+    "objectID": "Workshop.html#making-new-variables",
+    "href": "Workshop.html#making-new-variables",
+    "title": "How to get started with R",
+    "section": "Making new variables",
+    "text": "Making new variables\n\nFunction: mutate()\nAction: Create, modify, and delete columns\n\n\nstarwars |&gt;  \n  mutate(BMI = mass / (height / 100)^2) |&gt; \n  select(name,species,height,mass,BMI)\n\n\n\n                    name        species height  mass      BMI\n1         Luke Skywalker          Human    172  77.0 26.02758\n2            Darth Vader          Human    202 136.0 33.33007\n3            Leia Organa          Human    150  49.0 21.77778\n4              Owen Lars          Human    178 120.0 37.87401\n5     Beru Whitesun Lars          Human    165  75.0 27.54821\n6      Biggs Darklighter          Human    183  84.0 25.08286\n7         Obi-Wan Kenobi          Human    182  77.0 23.24598\n8       Anakin Skywalker          Human    188  84.0 23.76641\n9              Chewbacca        Wookiee    228 112.0 21.54509\n10              Han Solo          Human    180  80.0 24.69136\n11        Wedge Antilles          Human    170  77.0 26.64360\n12                  Yoda Yoda's species     66  17.0 39.02663\n13             Palpatine          Human    170  75.0 25.95156\n14             Boba Fett          Human    183  78.2 23.35095\n15                 IG-88          Droid    200 140.0 35.00000\n16                 Bossk     Trandoshan    190 113.0 31.30194\n17      Lando Calrissian          Human    177  79.0 25.21625\n18                 Lobot          Human    175  79.0 25.79592\n19                Ackbar   Mon Calamari    180  83.0 25.61728\n20 Wicket Systri Warrick           Ewok     88  20.0 25.82645\n21             Nien Nunb      Sullustan    160  68.0 26.56250\n22          Qui-Gon Jinn          Human    193  89.0 23.89326\n23           Nute Gunray      Neimodian    191  90.0 24.67038\n24         Padmé Amidala          Human    185  45.0 13.14828\n25         Jar Jar Binks         Gungan    196  66.0 17.18034\n26          Roos Tarpals         Gungan    224  82.0 16.34247\n27               Sebulba            Dug    112  40.0 31.88776\n28            Darth Maul         Zabrak    175  80.0 26.12245\n29           Ayla Secura        Twi'lek    178  55.0 17.35892\n30          Ratts Tyerel         Aleena     79  15.0 24.03461\n31              Dud Bolt     Vulptereen     94  45.0 50.92802\n32        Ben Quadinaros          Toong    163  65.0 24.46460\n33            Mace Windu          Human    188  84.0 23.76641\n34          Ki-Adi-Mundi         Cerean    198  82.0 20.91623\n35             Kit Fisto       Nautolan    196  87.0 22.64681\n36            Adi Gallia     Tholothian    184  50.0 14.76843\n37              Plo Koon        Kel Dor    188  80.0 22.63468\n38     Poggle the Lesser      Geonosian    183  80.0 23.88844\n39       Luminara Unduli       Mirialan    170  56.2 19.44637\n40         Barriss Offee       Mirialan    166  50.0 18.14487\n41                 Dooku          Human    193  80.0 21.47709\n42            Jango Fett          Human    183  79.0 23.58984\n43            Zam Wesell       Clawdite    168  55.0 19.48696\n44       Dexter Jettster       Besalisk    198 102.0 26.01775\n45               Lama Su       Kaminoan    229  88.0 16.78076\n46            Wat Tambor        Skakoan    193  48.0 12.88625\n47              Shaak Ti        Togruta    178  57.0 17.99015\n48              Grievous        Kaleesh    216 159.0 34.07922\n49               Tarfful        Wookiee    234 136.0 24.83746\n50       Raymus Antilles          Human    188  79.0 22.35174\n51            Tion Medon         Pau'an    206  80.0 18.85192"
+  },
+  {
+    "objectID": "Workshop.html#what-happened",
+    "href": "Workshop.html#what-happened",
+    "title": "How to get started with R",
+    "section": "What happened??",
+    "text": "What happened??\n\nstarwars |&gt; \n  summarise(mean(BMI))\n\n\n\nError in `summarise()`:\nℹ In argument: `mean(BMI)`.\nCaused by error:\n! object 'BMI' not found"
+  },
+  {
+    "objectID": "Workshop.html#assignment-operator",
+    "href": "Workshop.html#assignment-operator",
+    "title": "How to get started with R",
+    "section": "Assignment operator",
+    "text": "Assignment operator\n\nstarwars = starwars |&gt; \n              mutate(BMI = mass/(height/100)^2)\n\nstarwars |&gt; \n  summarise(mean(BMI))\n\n\n\n  mean(BMI)\n1  24.50539\n\n\n\nstarwars |&gt; \n  filter(height&gt;200) |&gt; \n  select(name, BMI)\n\n\n\n          name      BMI\n1  Darth Vader 33.33007\n2    Chewbacca 21.54509\n3 Roos Tarpals 16.34247\n4      Lama Su 16.78076\n5     Grievous 34.07922\n6      Tarfful 24.83746\n7   Tion Medon 18.85192"
+  },
+  {
+    "objectID": "Workshop.html#your-turn-2",
+    "href": "Workshop.html#your-turn-2",
+    "title": "How to get started with R",
+    "section": "Your Turn!",
+    "text": "Your Turn!\n\nImport a new dataset called Scooby-Doo.csv\nDoes the dataset contain missing values? If it does, drop them.\nWhich season has the most monsters?\nWhich season has the highest IMDB score?\n\nSource: The data is from kaggle"
+  },
+  {
+    "objectID": "Workshop.html#beyond-our-workshop",
+    "href": "Workshop.html#beyond-our-workshop",
+    "title": "How to get started with R",
+    "section": "Beyond our workshop",
+    "text": "Beyond our workshop"
+  },
+  {
+    "objectID": "Workshop.html#head",
+    "href": "Workshop.html#head",
+    "title": "How to get started with R",
+    "section": "Head",
+    "text": "Head\n\nFunction: head()\nAction: View the first x rows of the dataset\n\n\nstarwars |&gt; \n  head(3)\n\n\n\n            name height mass hair_color skin_color species      BMI\n1 Luke Skywalker    172   77      blond       fair   Human 26.02758\n2    Darth Vader    202  136       none      white   Human 33.33007\n3    Leia Organa    150   49      brown      light   Human 21.77778\n\n\nis the same as\n\nhead(starwars,3)\n\n\n\n            name height mass hair_color skin_color species      BMI\n1 Luke Skywalker    172   77      blond       fair   Human 26.02758\n2    Darth Vader    202  136       none      white   Human 33.33007\n3    Leia Organa    150   49      brown      light   Human 21.77778"
+  },
+  {
+    "objectID": "Workshop.html#top_n",
+    "href": "Workshop.html#top_n",
+    "title": "How to get started with R",
+    "section": "Top_n",
+    "text": "Top_n\n\nFunction: top_n()\nAction: Select top (or bottom) n rows (by value)\n\n\n# Highest value\nstarwars |&gt; \n  top_n(3, height) |&gt; \n  select(name, species, height)\n\n\n\n       name  species height\n1 Chewbacca  Wookiee    228\n2   Lama Su Kaminoan    229\n3   Tarfful  Wookiee    234\n\n\n\n# Lowest value\nstarwars |&gt; \n  top_n(-3,height) |&gt; \n  select(name, species, height)\n\n\n\n                   name        species height\n1                  Yoda Yoda's species     66\n2 Wicket Systri Warrick           Ewok     88\n3          Ratts Tyerel         Aleena     79"
+  },
+  {
+    "objectID": "Workshop.html#plotting",
+    "href": "Workshop.html#plotting",
+    "title": "How to get started with R",
+    "section": "Plotting",
+    "text": "Plotting\n\nstarwars |&gt; \n  filter(species == \"Human\") |&gt; \n  ggplot(aes(x = height))+\n  geom_histogram(bins = 5)"
+  },
+  {
+    "objectID": "Workshop.html#plotting-1",
+    "href": "Workshop.html#plotting-1",
+    "title": "How to get started with R",
+    "section": "Plotting",
+    "text": "Plotting\n\nstarwars |&gt; \n  filter(species == \"Human\") |&gt; \n  ggplot(aes(x = height))+\n  geom_histogram(bins = 5)+\n  theme_minimal()"
+  },
+  {
+    "objectID": "Workshop.html#strenghts",
+    "href": "Workshop.html#strenghts",
+    "title": "How to get started with R",
+    "section": "Strenghts",
+    "text": "Strenghts\n\nR provides a wide variety of statistical analysis\nGraphical tools for data analysis\nA well-developed, simple, and effective program"
+  },
+  {
+    "objectID": "Workshop.html#weaknesses",
+    "href": "Workshop.html#weaknesses",
+    "title": "How to get started with R",
+    "section": "Weaknesses",
+    "text": "Weaknesses\n\nThere are many restrictions with R as it cannot be embedded in a web-application\nNumerical computation"
+  },
+  {
+    "objectID": "Workshop.html#section-1",
+    "href": "Workshop.html#section-1",
+    "title": "How to get started with R",
+    "section": "",
+    "text": "Reference: https://www.raulthinks.com/posts/all-about-r-mutual-love/"
+  },
+  {
+    "objectID": "Workshop.html#shinny-apps",
+    "href": "Workshop.html#shinny-apps",
+    "title": "How to get started with R",
+    "section": "Shinny Apps",
+    "text": "Shinny Apps\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReference: https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html"
+  },
+  {
+    "objectID": "Workshop.html#r-markdown",
+    "href": "Workshop.html#r-markdown",
+    "title": "How to get started with R",
+    "section": "R markdown",
+    "text": "R markdown\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Reference: https://rmarkdown.rstudio.com/lesson-13.html"
+  },
+  {
+    "objectID": "Workshop.html#references",
+    "href": "Workshop.html#references",
+    "title": "How to get started with R",
+    "section": "References",
+    "text": "References\n\nhttps://en.wikipedia.org/wiki/R_(programming_language)\nhttps://moderndive.com/1-getting-started.html#r-rstudio\nhttps://www.rforecology.com/post/how-to-use-pipes/"
+  },
+  {
+    "objectID": "Workshop.html#thank-you",
+    "href": "Workshop.html#thank-you",
+    "title": "How to get started with R",
+    "section": "Thank you",
+    "text": "Thank you\n\n\n\nR x TH"
+  }
+]

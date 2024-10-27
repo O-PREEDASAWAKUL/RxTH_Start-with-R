@@ -1,0 +1,589 @@
+series.name,season,title,imdb,monster.name,monster.amount,monster.gender
+"Scooby Doo, Where Are You!",1,What a Night for a Knight,8.1,Black Knight,1,Male
+"Scooby Doo, Where Are You!",1,A Clue for Scooby Doo,8.1,Ghost of Cptn. Cuttler,1,Male
+"Scooby Doo, Where Are You!",1,Hassle in the Castle,8,Phantom,1,Male
+"Scooby Doo, Where Are You!",1,Mine Your Own Business,7.8,Miner 49'er,1,Male
+"Scooby Doo, Where Are You!",1,Decoy for a Dognapper,7.5,Indian Witch Doctor,1,Female
+"Scooby Doo, Where Are You!",1,What the Hex Going On?,8.4,Ghost of Elias Kingston,1,Male
+"Scooby Doo, Where Are You!",1,Never Ape an Ape Man,7.6,Ape Man,1,Male
+"Scooby Doo, Where Are You!",1,Foul Play in Funland,8.2,Charlie the Robot,1,Male
+"Scooby Doo, Where Are You!",1,The Backstage Rage,8.1,Puppet Master,1,Male
+"Scooby Doo, Where Are You!",1,Bedlam in the Big Top,8,Ghost Clown,1,Male
+"Scooby Doo, Where Are You!",1,A Gaggle of Galloping Ghosts,8.5,"Werewolf,Dracula,Frankenstein's Monster",3,"Male,Male,Male"
+"Scooby Doo, Where Are You!",1,"Scooby-Doo and a Mummy, Too",8.2,Mummy of Ankha,1,Male
+"Scooby Doo, Where Are You!",1,Which Witch is Which,8.4,"Zombie,Witch",2,"Male,Female"
+"Scooby Doo, Where Are You!",1,Go Away Ghost Ship,8.1,Ghost of Redbeard,1,Male
+"Scooby Doo, Where Are You!",1,Spooky Space Kook,8.4,Spooky Space Kook,1,Male
+"Scooby Doo, Where Are You!",1,A Night of Fright Is No Delight,8.7,"Green Ghost,Green Ghost",2,"Male,Male"
+"Scooby Doo, Where Are You!",1,That's Snow Ghost,8,Snow Ghost,1,Male
+"Scooby Doo, Where Are You!",2,Nowhere to Hyde,8.3,Ghost of Mr. Hyde,1,Male
+"Scooby Doo, Where Are You!",2,Mystery Mask Mix-Up,7.8,"Ghost of Zen Tuo,Scare Pair,Scare Pair",3,"Male,Male,Male"
+"Scooby Doo, Where Are You!",2,Scooby's Night with a Frozen Fright,7.7,Caveman,1,Male
+"Scooby Doo, Where Are You!",2,"Jeepers, It's the Creeper",8.5,Creeper,1,Male
+"Scooby Doo, Where Are You!",2,Haunted House Hang-Up,8.4,Headless Specter,1,Male
+"Scooby Doo, Where Are You!",2,A Tiki Scare Is No Fair,7.9,"Witch Doctor,Mano Tiki Tia",2,"Female,Male"
+"Scooby Doo, Where Are You!",2,Who's Afraid of the Big Bad Werewolf?,8.2,Werewolf,1,Male
+"Scooby Doo, Where Are You!",2,Don't Fool with a Phantom,7.9,Wax Phantom,1,Male
+The New Scooby-Doo Movies,1,The Ghastly Ghost Town,6.9,"Giant Bat,Geronimo,Gunslinger,Robot Gunslinger,Cactus",2,"Male,Male,Male,Male,None"
+The New Scooby-Doo Movies,1,The Dynamic Scooby-Doo Affair,7.8,"Hooded Man,Skeletons",2,"Male,Male"
+The New Scooby-Doo Movies,1,Wednesday Is Missing,7.9,The Vulture,1,Female
+The New Scooby-Doo Movies,1,The Frickert Fracas,7.9,Scarecrow,1,Male
+The New Scooby-Doo Movies,1,Guess Who's Knott Coming to Dinner?,7.9,"Ghost of Captain Moody,Ghost of Captain Moody",2,"Male,Male"
+The New Scooby-Doo Movies,1,A Good Medium Is Rare,7.7,"The Gargoyle,Phantoms,Phantoms",3,"Male,Male,Male"
+The New Scooby-Doo Movies,1,Sandy Duncan's Jekyll and Hyde,7.8,"Ghost,Sheik,Mummy,Pirate,Dragon,Wolfman,Grizzly Bear,Indian,Mr. Hyde",9,"Male,Male,Male,Male,Male,Male,Male,Male,Male"
+The New Scooby-Doo Movies,1,The Secret of Shark Island,8.5,"Shark Men,Shark Men",2,"Male,Male"
+The New Scooby-Doo Movies,1,The Spooky Fog of Juneberry,7.7,"Skeleton Man,Lady Ghost,3-Eyed Spook,Giant,Brontosaurus,Headless Horsemen of Sleepy Hollow,Skeleton Stage Driver",7,"Male,Female,Male,Male,Male,Male,Male"
+The New Scooby-Doo Movies,1,The Ghost of Bigfoot,8.3,The Ghost of Bigfoot,1,Male
+The New Scooby-Doo Movies,1,The Ghost of the Red Baron,7.6,Ghost of the Red Baron,1,Male
+The New Scooby-Doo Movies,1,The Ghostly Creep from the Deep,7.4,"Ghost of Redbeard,Ghost of Redbeard's crew,Ghost of Redbeard's crew,Ghost of Redbeard's crew",4,"Male,Male,Male,Male"
+The New Scooby-Doo Movies,1,The Haunted Horseman of Hagglethorn Hall,7.8,"Haunted Horseman,Moat Monster",2,"Male,Male"
+The New Scooby-Doo Movies,1,The Phantom of the Country Music Hall,7.6,"Possessed Viking Mannequin,Possessed Davy Crockett Mannequin",2,"Male,Male"
+The New Scooby-Doo Movies,1,The Caped Crusader Caper,7.2,"Dryad,Troll",2,"Male,Male"
+The New Scooby-Doo Movies,1,The Lochness Mess,7.9,"Sea Serpent,Ghost of Paul Revere,Minuteman Ghost,Redcoat Ghost",4,"Male,Male,Male,Male"
+The New Scooby-Doo Movies,2,The Mystery of Haunted Island,7.4,"Hooded Ghosts,Hooded Ghosts,Hooded Ghosts",3,"Male,Male,Male"
+The New Scooby-Doo Movies,2,The Haunted Showboat,7.9,"Ghost of Injun Joe,Ghost of Captain Scavenger",2,"Male,Male"
+The New Scooby-Doo Movies,2,Mystery in Persia,7.5,Jadal,1,Male
+The New Scooby-Doo Movies,2,The Spirited Spooked Sports Show,7.4,Spirit of Fireball McPhan,1,Male
+The New Scooby-Doo Movies,2,The Exterminator,7.6,"Cat Creature,Frankenstein,Creepy Man,Ghost Bird,Unknown Exterminator,Ghostly Man,Invisible Couple,Sea Monster",8,"Male,Male,Male,Male,Male,Male,Male,Male"
+The New Scooby-Doo Movies,2,The Weird Winds of Winona,7.3,"Windmakers,Windmakers,Windmakers,Windmakers",4,"Male,Male,Male,Male"
+The New Scooby-Doo Movies,2,The Haunted Candy Factory,7.8,"Green Globs,Green Globs",2,"Male,Male"
+The New Scooby-Doo Movies,2,The Haunted Carnival,7.6,Ghostly Strongman,1,Male
+The Scooby-Doo Show,1,High Rise Hair Raiser,7.6,"Specter of Ebenezer Crabbe,Ghost of Netty Crabbe",2,"Male,Female"
+"Dynomutt, Dogwonder",Crossover,Everyone Hyde!,7.2,"Mr. Hyde,Snitch",1,"Male,Male"
+The Scooby-Doo Show,1,The Fiesta Host is an Aztec Ghost,7.4,"Ghost of King Katazuma,Aztec Statue Monster",2,"Male,Male"
+"Dynomutt, Dogwonder",Crossover,"What Now, Lowbrow?",6.9,"Lowbrow,Lowbrow's Henchmen,Lowbrow's Henchmen",3,"Male,Male,Male"
+The Scooby-Doo Show,1,The Gruesome Game of the Gator Ghoul,7.5,Ghost of Gator Ghoul,1,Male
+The Scooby-Doo Show,1,Whatta Shocking Ghost,8,10000 Volt Ghost,1,Male
+The Scooby-Doo Show,1,The Headless Horseman of Halloween,8,Headless Horseman,1,Male
+The Scooby-Doo Show,1,Scared a Lot in Camelot,7.6,"Ghost of Merlin,Black Knight",2,"Male,Male"
+The Scooby-Doo Show,1,The Harum-Scarum Sanitarium,8.2,Ghost of Dr. Coffin,1,Male
+The Scooby-Doo Show,1,The No-Face Zombie Chase Case,7.7,"No-Face Zombie,Gorilla",2,"Male,Male"
+The Scooby-Doo Show,1,Mamba Wamba and the Voodoo Hoodoo,7,"Mamba Wamba,Zombie Lila,Mamba Zombie,",3,"Male,Female,Male"
+The Scooby-Doo Show,1,A Frightened Hound Meets Demons Underground,7.4,Demon,3,Male
+"Dynomutt, Dogwonder",Crossover,The Wizard of Ooze,6.3,Swamp Rat,1,Male
+The Scooby-Doo Show,1,A Bum Steer for Scooby,6.8,"Tamuka the Ghost Bull,Medicine Man Ghost,Talking Bull",3,"Male,Male,Male"
+The Scooby-Doo Show,1,There's a Demon Shark in the Foggy Dark,7.2,Demon Shark,1,Male
+The Scooby-Doo Show,1,"Scooby-Doo, Where's the Crew?",7.3,"Ghost of Captain Pescado,Kelp Monster,Octopus Monster",3,"Male,Male,Male"
+The Scooby-Doo Show,1,The Ghost That Sacked the Quarterback,6.8,Rambling Ghost,1,Male
+The Scooby-Doo Show,1,The Ghost of the Bad Humor Man,7.7,"Strawberry Technicolor Phantom,Chocolate Technicolor Phantom,Vanilla Technicolor Phantom",3,"Male,Male,Male"
+The Scooby-Doo Show,1,The Spirits of '76,7.5,"Ghost of Benedict Arnold,Ghost of William Demont,Ghost of Major Andre",3,"Male,Male,Male"
+The Scooby-Doo Show,2,The Curse of the Viking Lake,7.4,"Viking Ghost,Viking Ghost,Viking Ghost",3,"Male,Male,Male"
+Laff-a-Lympics,1,The Swiss Alps,6.9,NULL,0,NULL
+Laff-a-Lympics,1,"Tokyo, Japan",6.9,NULL,0,NULL
+The Scooby-Doo Show,2,Vampire Bats and Scaredy Cats,8.2,Gramps the Vamp,1,Male
+Laff-a-Lympics,1,Acapulco,6.3,NULL,0,NULL
+Laff-a-Lympics,1,England,6.3,NULL,0,NULL
+The Scooby-Doo Show,2,"Hang in There, Scooby-Doo",7.4,Pterodactyl Ghost,1,Male
+Laff-a-Lympics,1,Florida,7.1,NULL,0,NULL
+Laff-a-Lympics,1,China,7.1,NULL,0,NULL
+The Scooby-Doo Show,2,The Chiller Diller Movie Thriller,7.9,Phantom of Milo Booth,1,Male
+Laff-a-Lympics,1,The Sahara Desert,7.2,NULL,0,NULL
+Laff-a-Lympics,1,Scotland,7.2,Lochness Monster,1,Female
+The Scooby-Doo Show,2,The Spooky Case of the Grand Prix Race,7.4,Phantom Racer,1,Male
+Laff-a-Lympics,1,France,6.8,NULL,0,NULL
+Laff-a-Lympics,1,Australia,6.8,NULL,0,NULL
+The Scooby-Doo Show,2,The Ozrk Witch,8.1,"Ghost of Witch McCoy,Zombie",2,"Female,Male,"
+Laff-a-Lympics,1,"Athens, Greece",6.8,NULL,0,NULL
+Laff-a-Lympics,1,The Ozarks,6.8,NULL,0,NULL
+The Scooby-Doo Show,2,Creepy Cruise,7.7,Futuristic Monster,1,Male
+Laff-a-Lympics,1,Italy,6.6,NULL,0,NULL
+Laff-a-Lympics,1,"Kitty Hawk, North Carolina",6.6,NULL,0,NULL
+The Scooby-Doo Show,2,The Creepy Heap from the Deep,7.4,"Creepy Heap from the Deep,Soulless Captain Clements",2,"Male,Male"
+Laff-a-Lympics,1,Egypt,6.4,NULL,0,NULL
+Laff-a-Lympics,1,Sherwood Forest,6.4,NULL,0,NULL
+Laff-a-Lympics,1,Spain,6,NULL,0,NULL
+Laff-a-Lympics,1,The Himalayas,6,"Abominable Snowman,Abominable Snowwoman",2,"Male,Female"
+Laff-a-Lympics,1,India,6.7,NULL,0,NULL
+Laff-a-Lympics,1,Israel,6.7,NULL,0,NULL
+Laff-a-Lympics,1,Africa,6.4,NULL,0,NULL
+Laff-a-Lympics,1,San Francisco,6.4,NULL,0,NULL
+Laff-a-Lympics,1,The Grand Canyon,6.3,NULL,0,NULL
+Laff-a-Lympics,1,Ireland,6.3,Leprechaun,1,Male
+Laff-a-Lympics,1,Hawaii,6.9,Prehistoric Dinosaur,1,Male
+Laff-a-Lympics,1,Norway,6.9,NULL,0,NULL
+Laff-a-Lympics,1,North Pole,6.8,NULL,0,NULL
+Laff-a-Lympics,1,Tahiti,6.8,NULL,0,NULL
+Laff-a-Lympics,1,Arizona,6.9,NULL,0,NULL
+Laff-a-Lympics,1,Holland,6.9,NULL,0,NULL
+Laff-a-Lympics,1,Quebec,7,NULL,0,NULL
+Laff-a-Lympics,1,Baghdad,7,NULL,0,NULL
+The Scooby-Doo Show,3,Watch Out! The Willawa!,7.5,"Willawa,Owl Men,Owl Men",3,"Male,Male,Male"
+Laff-a-Lympics,2,Russia,6.7,NULL,0,NULL
+Laff-a-Lympics,2,Caribbean,6.7,Ghost of Blue Beard,1,Male
+The Scooby-Doo Show,3,A Creepy Tangle in the Bermuda Triangle,7.3,"Skeleton Men,Skeleton Men,Skeleton Men",3,"Male,Male,Male"
+Laff-a-Lympics,2,New York,6.9,NULL,0,NULL
+Laff-a-Lympics,2,Turkey,6.9,NULL,0,NULL
+The Scooby-Doo Show,3,A Scary Night with a Snow Beast Fright,7.1,Snow Beast,1,Male
+Laff-a-Lympics,2,South America,6.6,Annabelle,1,Female
+Laff-a-Lympics,2,Transylvania,6.6,"Frankenstein's Monster,Vampires,Living Trees,Monster of the Black Lagoon",4,"Male,Male,Male,Male"
+The Scooby-Doo Show,3,To Switch a Witch,8,Ghost Witch of Old Salem,1,Female
+Laff-a-Lympics,2,French Riviera,6.6,NULL,0,NULL
+Laff-a-Lympics,2,New Zealand,6.6,NULL,0,NULL
+The Scooby-Doo Show,3,The Tar Monster,7.6,Tar Monster,1,Male
+Laff-a-Lympics,2,New Orleans,6.5,NULL,0,NULL
+Laff-a-Lympics,2,Atlantis,6.5,Giant Squid,1,Male
+The Scooby-Doo Show,3,A Highland Fling with a Monstrous Thing,7.7,"Ghost of Finnyan McDuff,Loch Ness Monster",2,"Male,Female"
+Laff-a-Lympics,2,Morocco,6.4,NULL,0,NULL
+Laff-a-Lympics,2,Washington D.C.,6.4,NULL,0,NULL
+The Scooby-Doo Show,3,The Creepy Case of Old Iron Face,7.7,Old Iron Face,1,Male
+Laff-a-Lympics,2,Canada,6.2,NULL,0,NULL
+Laff-a-Lympics,2,"Warsaw, Poland",6.2,NULL,0,NULL
+The Scooby-Doo Show,3,"Jeepers, It's the Jaguaro!",7.2,Jaguaro,1,Male
+Laff-a-Lympics,2,Siam,6.8,NULL,0,NULL
+Laff-a-Lympics,2,The Moon,6.8,NULL,0,NULL
+The Scooby-Doo Show,3,Make a Beeline Away from that Feline,8,Cat Creature,1,Male
+The Scooby-Doo Show,3,The Creepy Creature of Vulture's Claw,7.5,Mantis,1,Male
+The Scooby-Doo Show,3,The Diabolical Disc Demon,7.5,Phantom,1,Male
+The Scooby-Doo Show,3,Scooby's Chinese Fortune Kooky Caper,7.5,Moon Monster,1,Male
+The Scooby-Doo Show,3,A Menace in Venice,7.5,Ghostly Gondolier,1,Male
+The Scooby-Doo Show,3,Don't Go Near the Fortress of Fear,7.2,Ghost of Juan Carlos,1,Male
+The Scooby-Doo Show,3,The Warlock of Wimbledon,6.8,"Anthos,Devil Hound",2,"Male,Male"
+The Scooby-Doo Show,3,The Beast is Awake in Bottomless Lake,7.1,Beast of Bottomless Lake,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Scarab Lives!,7.6,Blue Scarab,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Night Ghoul of Wonderworld,7.6,Night Ghoul,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,Strange Encounters of a Scooby Kind,7.6,Alien,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Neon Phantom of the Roller Disco!,7.4,Neon Phantom,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,"Shiver and Shake, That Demon's a Snake",7.5,"Snake Demon,Clown",2,"Male,Male"
+Scooby-Doo and Scrappy-Doo (first series),1,The Scary Sky Skeleton,7.4,Sky Skeleton,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Demon of the Dugout,7.5,Dragon Beast,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Hairy Scare of the Devil Bear,7.3,Devil Bear,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,Twenty Thousand Screams Under the Sea,7.6,Sea Beast of the Aztecs,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,I Left My Neck in San Francisco,8,Lady Vampire of the Bat,1,Female
+Scooby-Doo and Scrappy-Doo (first series),1,When You Wish Upon a Star Creature,7.2,Star Creature,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,"The Ghoul, the Bat and the Ugly",7.7,Shadow Creature,1,Male
+Scooby Goes Hollywood,Movie,Scooby Goes Hollywood,6.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (first series),1,Rocky Mountain Yiiiii!,7.5,Ghost of Jeremiah Pratt,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Sorcerer's a Menace,7.3,Ghost of the Great Haldane,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,"Lock the Door, It's a Minotaur!",7.5,Minotaur,1,Male
+Scooby-Doo and Scrappy-Doo (first series),1,The Ransom of Scooby Chief,6.5,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,A Close Encounter with a Strange Kind,7.1,"Aliens,Aliens",2,"Male,Male"
+Scooby-Doo and Scrappy-Doo (second series),1,A Fit Night Out for Bats,7.1,Sylvester,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,The Chinese Food Factory,7.1,Chinese Food Factory Burglar,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Desert Dilemma,7.2,Arabian Magician,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,The Old Cat and Mouse Game,7.2,Cat Man,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Stow-Aways,6.8,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Mummy's the Word,7.2,Mummy,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,"Hang in There, Scooby",7.2,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Stuntman Scooby,7.2,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Three Ding-a-Ling Circus,7.2,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Fantastic Island,7.1,Caveman,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Long John Scrappy,6.8,Pirate,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Bull Fright,6.8,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby Ghosts West,6.7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,A Bungle in the Jungle,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Fun Zone,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Swamp Witch,6.7,Swamp Witch,1,Female
+Scooby-Doo and Scrappy-Doo (second series),1,Sir Scooby and the Black Knight,7,Knight,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Waxworld,6.7,Wax Master,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby in Wonderland,7,"Evil Trees,Caterpillar,Cheshire Cat,Queen of Hearts",4,"Male,Male,Male,Female"
+Scooby-Doo and Scrappy-Doo (second series),1,Scrappy's Birthday,7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,South Seas Scare,7,Lava Monster,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Swiss Miss,6.7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Alaskan King Coward,7,Alaskan Monster,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,"Et Tu, Scoob?",6.7,Rocky Maximus,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Soggy Bog Scooby,6.7,Swamp Monster,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby Gumbo,7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Way Out Scooby,7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Strongman Scooby,7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Moonlight Madness,7,Shaggy,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Dog Tag Scooby,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby at the Center of the World,7.1,"Rock Monsters,Rock Monsters",2,"Male,Male"
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby's Trip to Ahz,7.1,Wicked Witch of the North by Southeast,1,Female
+Scooby-Doo and Scrappy-Doo (second series),1,A Fright at the Opera,7.2,Phantom of the Sewers,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Robot Ranch,7.1,Rawhide Red,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Surprised Spies,7.1,Enemy Spy,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,The Invasion of the Scooby Snatchers,7.2,Alien,1,Male
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby Dooby Guru,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),1,Scooby and the Bandit,7.2,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby-Nocchio,7.4,Pleasure Island Man,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Lighthouse Keeper Scooby,7.4,Pirate,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby's Roots,7.4,Sheet Ghost,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby's Escape from Atlantis,7.2,Centaur,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Excalibur Scooby,7.2,"Merlin,Jasper",2,"Male,Male"
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby Saves the World,7.1,Alien,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby-Dooby Goo,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),2,Rickshaw Scooby,7.1,Dragon,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby's Luck of the Irish,7.2,Pat O'Wiley,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Backstage Scooby,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby's House of Mystery,7.1,Madame Olga,1,Female
+Scooby-Doo and Scrappy-Doo (second series),2,Sweet Dreams Scooby,7.1,"Red Baron,T-Rex",2,"Male,Male"
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby-Doo 2000,7.1,Toy Gorilla,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Punk Rock Scooby,7.1,Plutonian,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Canine to Five,7.4,Dr. Wolf,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Hard Hat Scooby,7.1,Vampire Foreman,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Hothouse Scooby,7.1,Carnivorous Plants,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Pigskin Scooby,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),2,Sopwith Scooby,7.4,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),2,Tenderbigfoot,7.1,Bigfoot,1,Male
+Scooby-Doo and Scrappy-Doo (second series),2,Scooby and the Beanstalk,7.1,Giant,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,Maltese Mackerel,7.4,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Dumb Waiter Caper,7.4,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Catfish Burglar Caper,7.1,Catfish Burglar,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,Movie Monster Menace,7.3,"Gargoyle,Medusa,Sea Creature,Octopus Monster,Bigfoot",5,"Male,Female,Male,Male,Male"
+Scooby-Doo and Scrappy-Doo (second series),3,Super Teen Shaggy,6.9,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Basketball Bumblers,7.4,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Beauty Constest Caper,7.3,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Stake-out at the Take-out,6.9,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Who's Scooby-Doo?,7.3,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Double Trouble Date,7.3,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Cable Car Caper,7.4,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Muscle Trouble,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Comic Book Caper,7.4,Slime Boy,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,Misfortune Teller,7.3,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,A Gem of a Case,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,From Bad to Curse,7.3,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Disappearing Car Caper,7,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Scooby-Doo and Genie-Poo,7.1,Jasmine,1,Female
+Scooby-Doo and Scrappy-Doo (second series),3,Close Encounter of the Worst Kind,7.2,"Alien Scavenger Hunter,Alien Scavenger Hunter,Alien Scavenger Hunter",3,"Male,Female,Male"
+Scooby-Doo and Scrappy-Doo (second series),3,Captain Canine Caper,7.2,Dognapper,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,The Incredible Cat Lady Caper,7,Cat Lady,1,Female
+Scooby-Doo and Scrappy-Doo (second series),3,Picnic Poopers,7.1,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,One Million Years Before Lunch,7.1,Wonga,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,Where's the Wolf,7.4,Scooby-Doo,1,Male
+Scooby-Doo and Scrappy-Doo (second series),3,Hoedown Showdown,6.8,NULL,0,NULL
+Scooby-Doo and Scrappy-Doo (second series),3,Snow Job Too Small,6.8,Abominable Snowman,1,Male
+The New Scooby and Scrappy Doo Show,1,Scooby the Barbarian,7.4,Olaf the Terrible,1,Male
+The New Scooby and Scrappy Doo Show,1,No Sharking Zone,7.4,"Great White Shark,Seaweed Monster",2,"Male,Male"
+The New Scooby and Scrappy Doo Show,1,Scoobygeist,7.5,"Face in the Fireplace,Ghosts Under the Bed,Living Animal Heads,Skeleton,Living Statue,Organ Playing Ghost",6,"Male,Male,Male,Female,Male,Male"
+The New Scooby and Scrappy Doo Show,1,The Quagmire Quake Caper,7.5,Mud Monster,1,Male
+The New Scooby and Scrappy Doo Show,1,Hound of the Scoobyvilles,7.5,Hound of the Barkervilles,1,Male
+The New Scooby and Scrappy Doo Show,1,The Dinosaur Deception,7.5,Dinosaur,1,Male
+The New Scooby and Scrappy Doo Show,1,The Creature Came from The Chemlab,7.7,Creature from Chem Lab,1,Male
+The New Scooby and Scrappy Doo Show,1,"No Thanks, Masked Manx",7.7,Masked Manx,1,Male
+The New Scooby and Scrappy Doo Show,1,Scooby of the Jungle,7.2,"Randar the Ape Man,Mobotsu",2,"Male,Male"
+The New Scooby and Scrappy Doo Show,1,"Scooby-Doo and Cyclops, Too",7.2,"Maid Zombie,Barney Zombie,Tourist Zombie,Amy Zombie",4,"Female,Male,Male,Female"
+The New Scooby and Scrappy Doo Show,1,Scooby Roo,7.5,Neanderthal Monster of Devil's Rock,1,Male
+The New Scooby and Scrappy Doo Show,1,Scooby's Gold Medal Gambit,7.5,NULL,0,NULL
+The New Scooby and Scrappy Doo Show,1,Wizards and Warlocks,7.3,"Tower Wizard,Yadzruck",2,"Male,Male"
+The New Scooby and Scrappy Doo Show,1,Scoobsie,7.3,Phantom of the Soaps,1,Male
+The New Scooby and Scrappy Doo Show,1,The Mark of Scooby,7.1,NULL,0,NULL
+The New Scooby and Scrappy Doo Show,1,The Crazy Carnival Caper,7.1,Clown,1,Male
+The New Scooby and Scrappy Doo Show,1,Scooby and the Minotaur,7.4,Minotaur,1,Male
+The New Scooby and Scrappy Doo Show,1,Scooby Pinch Hits,7.4,Ghost of Casey O'Reilly,1,Male
+The New Scooby and Scrappy Doo Show,1,The Fall Dog,7.2,Gremlin,1,Male
+The New Scooby and Scrappy Doo Show,1,The Scooby Coupe,7.2,Specter of the Sports Cars,1,Male
+The New Scooby and Scrappy Doo Show,1,Who's Minding the Monster,6.5,"Frankenstein's Monster,Dracula,Dracula's Wife,Dracula Jr.",4,"Male,Male,Female,Male"
+The New Scooby and Scrappy Doo Show,1,Scooby ala Mode,6.5,Ghost of Chef Maras,1,Male
+The New Scooby and Scrappy Doo Show,1,Where's Scooby-Doo?,6.5,Mummy,1,Male
+The New Scooby and Scrappy Doo Show,1,Wedding Bell Boos!,6.5,Ghost of McBaggy Rodgers,1,Male
+The New Scooby-Doo Mysteries,1,"Happy Birthday, Scooby-Doo",7.2,Red Skull,1,Male
+The New Scooby-Doo Mysteries,1,Scooby's Peep-Hole Pandemonium,7.2,Maid Mummy,1,Female
+The New Scooby-Doo Mysteries,1,The Hand of Horror,7.2,Helping Hands,1,Male
+The New Scooby-Doo Mysteries,1,Scoo-Be or Not Scoo-Be?,7.5,"Sea Demon,Sea Demon",2,"Male,Male"
+The New Scooby-Doo Mysteries,1,The Stoney Glare Stare,7.5,Cyclops,1,Male
+The New Scooby-Doo Mysteries,1,Mission: Un-Doo-Able,7,Master Mind,1,Male
+The New Scooby-Doo Mysteries,1,The Bee Team,7,Giant Bees,1,Male
+The New Scooby-Doo Mysteries,1,Doom Service,7.1,Ghost of Ebenezer Overview,1,Male
+The New Scooby-Doo Mysteries,1,A Code in the Nose,7.1,NULL,0,NULL
+The New Scooby-Doo Mysteries,1,Ghost of the Ancient Astronauts,6.9,"Zombies,Zombies,Zombies,Zombies",4,"Male,Male,Male,Male"
+The New Scooby-Doo Mysteries,1,The Night of Living Toys,7.2,Evil Elf,1,Male
+The New Scooby-Doo Mysteries,1,South Pole Vault,7.2,Mad Sea Lion,1,Male
+The New Scooby-Doo Mysteries,1,A Halloween Hassle at Dracula's Castle,8,Ghost of Dr. Van Helsing,1,Male
+The New Scooby-Doo Mysteries,1,A Night Louse at the White House,7.5,"Ghost of Abraham Lincoln,Ghost of George Washington,Ghost of Ulysses S. Grant,Ghost of Theodore Roosevelt",4,"Male,Male,Male,Male"
+The New Scooby-Doo Mysteries,1,Showboat Scooby,7.3,Ghost of Colonel Beauregard,1,Male
+The New Scooby-Doo Mysteries,1,The 'Dooby Dooby Doo' Ado,7.3,NULL,0,NULL
+The New Scooby-Doo Mysteries,1,Sherlock Doo,7.6,Ghost of Sherlock Holmes,1,Male
+The New Scooby-Doo Mysteries,1,A Scarey Duel with a Cartoon Ghoul,7,Monster Mutt,1,Male
+The New Scooby-Doo Mysteries,1,E*I*E*I*O,7,Monster Mouse,1,Male
+The New Scooby-Doo Mysteries,1,The Nutcracker Scoob,7.9,Ghost of Christmas Never,1,Male
+The 13 Ghosts of Scooby-Doo,1,To All the Ghouls I've Loved Before,7.7,"Bogle,Weerd,Ghoulio,Werewolfs,Werewolf Daphnie",5,"Male,Male,Male,Male,Female"
+The 13 Ghosts of Scooby-Doo,1,Scoobra Kadoobra,7.6,"Maldore the Malevolent,Evil Tree,Evil Tree,Dragon,Rat Gaurds,Rat Gaurds",6,"Male,Male,Male,Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,Me and My Shadow Demon,7.3,"Shadow Demon,Griswald,Queen Morbidia",2,"Male,Male,Female"
+The 13 Ghosts of Scooby-Doo,1,Reflections in the Ghoulish Eye,7.2,"Bogle,Weerd,Reflector Specter",3,"Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,That's Monstertainment,7.9,"Zomba,Dr. Frankscoob's Monster",2,"Female,Male"
+The 13 Ghosts of Scooby-Doo,1,Ship of Ghouls,7.5,"Bogel,Weerd,Captain Ghost,Ghosts on the Ship,Tornado,Demon",4,"Male,Male,Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,A Spooky Little Ghoul Like You,7.6,"Bogel,Weerd,Nekara,Nekara's Minions",3,"Male,Male,Female,Male"
+The 13 Ghosts of Scooby-Doo,1,When You Witch Upon a Star,7.1,"Marcella,Helda Brewski,Ernestine Brewski,Wanda Brewski",4,"Female,Female,Female,Female"
+The 13 Ghosts of Scooby-Doo,1,It's a Wonderful Scoob,7.4,"Time Slime,Bogel,Weerd",3,"Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,Scooby in Kwacky Land,7.7,"Demondo,Bogel,Weerd",3,"Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,Coast-to-Ghost,7.4,"Rankor,Bogel,Weerd,Head of S.A.P.S.,Living Plants",5,"Male,Male,Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,The Ghouliest Show on Earth,7.4,"Porff. Phantazmo,Bogel,Weerd",3,"Male,Male,Male"
+The 13 Ghosts of Scooby-Doo,1,Horror-Scope Scoob,7.4,"Zimbulu,Bogel,Weerd,Boris Kreepoff,Zombies,Zombies,Zombies",7,"Male,Male,Male,Male,Male,Male,Male"
+Hanna-Barbera Superstars 10,Special,Scooby-Doo Meets the Boo Brothers,7.1,"Headless Horseman,Beauregard's Ghost,Skull Ghost,Floating Skeleton",4,"Male,Male,Male,Male"
+A Pup Named Scooby-Doo,1,A Bicycle Built for Boo,7.3,Ghost,1,Male
+A Pup Named Scooby-Doo,1,The Sludge Monster from the Earth's Core,7.5,Sludge Monster from the Earth's Croe,1,Male
+A Pup Named Scooby-Doo,1,The Schnoock Who Took My Comic Book,8,Dr. Croaker,1,Male
+A Pup Named Scooby-Doo,1,Wanted Cheddar Alive,7.5,Cheese Monster,1,Male
+A Pup Named Scooby-Doo,1,For Letter or Worse,7.4,Ghost of Al Cabone,1,Male
+A Pup Named Scooby-Doo,1,The Babysitter from Beyond,7.6,Boogedy Bones,1,Male
+Hanna-Barbera Superstars 10,Special,Scooby-Doo and the Ghoul School,6.9,"Revolta,Grim Creeper,Mirror Monster,Well-Dweller",4,"Female,Male,Male,Male"
+A Pup Named Scooby-Doo,1,Snow Place Like Home,7.8,Ice Demon,1,Male
+A Pup Named Scooby-Doo,1,"Now Museum, Now You Don't ",7.7,Samurai Ghost,1,Male
+A Pup Named Scooby-Doo,1,Scooby Dude,7,Headless Skateboarder,1,Male
+A Pup Named Scooby-Doo,1,Ghost Who's Coming to Dinner,7.5,Boobeard,1,Male
+Hanna-Barbera Superstars 10,Special,Scooby-Doo! and the Reluctant Werewolf,6.9,"Count Dracula,Wolfgong,Frankenstein,Repulsa,Witch Sisters,Witch Sisters,Mummy,Bonejangles,Swamp Thing,Vanna Pira,Werewolf Shaggy,Dr. Jackyll,Dragonfly,Webman,Schlockness Monster,Genghis Kong,Man-Eating Plant",19,"Male,Male,Male,Female,Female,Female,Male,Male,Male,Female,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+A Pup Named Scooby-Doo,1,The Story Stick,6.9,Totem Spirit,1,Male
+A Pup Named Scooby-Doo,1,Robopup,7.2,Ghost of Chef Pierre Goulash,1,Male
+A Pup Named Scooby-Doo,1,Lights...Camera...Monster,7.5,Stinkweed,1,Male
+A Pup Named Scooby-Doo,2,Curse of the Collar,7.7,Ghost of Buster McMutt Mauler,1,Male
+A Pup Named Scooby-Doo,2,The Return of Commander Cool,7.7,Alien,1,Male
+A Pup Named Scooby-Doo,2,The Spirit of Rock'n Roll,7.8,Ghost of Purvis Parker,1,Male
+A Pup Named Scooby-Doo,2,Chickenstein Lives,7.5,Chickenstein,1,Male
+A Pup Named Scooby-Doo,2,Night of the Living Burger,7.6,Burger Monster,1,Male
+A Pup Named Scooby-Doo,2,The Computer Walks Among Us,7.7,Dinkley 2000,1,Male
+A Pup Named Scooby-Doo,2,Don Gone Scooby,7.2,NULL,0,NULL
+A Pup Named Scooby-Doo,2,"Terror, Thy Name is Zombo",7.8,Ghost of Zombo,1,Male
+A Pup Named Scooby-Doo,3,Night of the Boogey Biker,7.1,Boogey Biker,1,Male
+A Pup Named Scooby-Doo,3,Dawn of the Spooky Shuttle Scare,7.1,Astronaut Ghost,1,Male
+A Pup Named Scooby-Doo,3,Horror of the Haunted Hairpiece,6.9,Bigwig,1,Male
+A Pup Named Scooby-Doo,3,Wrestle Maniacs,7.2,Ghost of the Hooded Heifer,1,Male
+A Pup Named Scooby-Doo,4,The Were-Doo of Doo Manor,7.2,Nasty-Doo,1,Male
+A Pup Named Scooby-Doo,4,Catcher on the Sly,6.6,NULL,0,NULL
+A Pup Named Scooby-Doo,4,The Ghost of Mrs. Shusham,6.6,Ghost of Mrs. Shusham,1,Female
+A Pup Named Scooby-Doo,4,The Wrath of Waitro,6.6,NULL,0,NULL
+A Pup Named Scooby-Doo,4,Mayhem of the Moving Mollusk,7.2,Moving Mollusk,1,Male
+TV Special,Special,Arabian Nights,5.8,NULL,0,NULL
+Johnny Bravo,Crossover,Bravo Dooby-Doo,8.4,Ghostly Gardener,1,Male
+Warner Home Video,Movie,Scooby-Doo on Zombie Island,7.8,"Ghost of Morgan Moonscar,Pirate Zombies,Confederate Zombies,Tourist Zombies,Simone Lenoir,Lena Dupree,Jacques",7,"Male,Male,Male,Male,Female,Female,Male"
+Warner Home Video,Movie,Scooby-Doo and the Witch's Ghost,7.3,"Ben Ravencroft,Sarah Ravencroft,Evil Trees,Pumpkin Monsters,Enormous Turkey",5,"Male,Female,Male,Male,Male"
+The Scooby-Doo Project,Special,The Scooby-Doo Project,7.4,"Casper County Monster,Casper County Monster",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo and the Alien Invaders,6.9,"Aliens,Aliens,Aliens",3,"Male,Male,Male"
+Warner Home Video,Movie,Scooby-Doo and the Cyber Chase,7,Phantom Virus,1,Male
+Night of the Living Doo,Special,Night of the Living Doo,7.2,"Zombie,Mummy,Zombie Gary Coleman",3,"Male,Male,Male"
+Warner Bros. Picture,Movie,Scooby-Doo,5.1,"Demons,Demons,Demons,Demons,Possessed College Kids,Possessed Fred,Possessed Marry Jane,Possessed Daphine,Possessed Velma,Scrappy-Rex",10,"Male,Male,Male,Male,Male,Male,Female,Female,Female,Male"
+"Harvey Birdman, Attorney at Law",Crossover,Shaggy Busted,8.1,Green Monster,1,Male
+What's New Scooby-Doo?,1,There's No Creature Like Snow Creature,7.5,Snow Creature,1,Male
+What's New Scooby-Doo?,1,3-D Struction,7.4,Dinosaur Spirit,1,Male
+What's New Scooby-Doo?,1,Space Ape and the Cape,7.6,The Alien,1,Male
+What's New Scooby-Doo?,1,Big Scare in the Big Easy,7.7,"Ghost of the Leland Brothers,Ghost of the Leland Brothers",2,"Male,Male"
+What's New Scooby-Doo?,1,"It's Mean, It's Green, It's the Mystery Machine",7.6,The Mystery Machine,1,Female
+What's New Scooby-Doo?,1,Riva Ras Regas,7.5,Ghost of Rufus Raucaus,1,Male
+What's New Scooby-Doo?,1,Roller Ghoster Ride,7.7,Roller Ghoster,1,Male
+What's New Scooby-Doo?,1,"Safari, So Goodie!",7.1,Jungle Demons,1,Male
+What's New Scooby-Doo?,1,She Sees Sea Monsters by the Sea Shore,7.1,Motoshondu,1,Female
+What's New Scooby-Doo?,1,A Scooby-Doo! Christmas,7.5,Headless Snowman,1,Male
+What's New Scooby-Doo?,1,Toy Scary Boo,7.7,"Spaceman Swintons,Annabel Action Figure,Other Toys",3,"Male,Female,Male"
+What's New Scooby-Doo?,1,Lights! Camera! Mayhem!,7.5,Faceless Phantom,1,Male
+What's New Scooby-Doo?,1,Pompii and Circumstance,7.1,Undead,1,Male
+Warner Home Video,Movie,Scooby-Doo! and the Legend of the Vampire,6.6,"Yowie Yahoo,Dark Skull,Stormy Weathers,Lightning Strikes",4,"Male,Male,Male,Male"
+What's New Scooby-Doo?,1,The Unnatural,7.3,Baseball Specter,1,Male
+What's New Scooby-Doo?,2,Big Appetite in Little Tokyo,7.2,"Ancient One,30 Foot Shaggy",2,"Male,Male"
+What's New Scooby-Doo?,2,Mummy Scares Best,7.6,"Mummy of Pharaoh Scamses,Zombies,Zombies,Zombies,Zombies,Zombie Fred,Zombie Daphnie,Zombie Velma",8,"Male,Male,Male,Female,Male,Male,Female,Female"
+What's New Scooby-Doo?,2,The Fast and the Wormious,7.4,Gusano Grande,1,Male
+Warner Home Video,Movie,Scooby-Doo! and the Monster of Mexico,6.5,"Chupacabra,Paco,Quetzalcoatl,Jaguar Statues,Aztec Giant Statue,Ghost of Señor Otero,Skeleton Man",7,"Male,Male,Male,Male,Male,Male,Male"
+What's New Scooby-Doo?,2,High-Tech House of Horrors,7.5,"Jeevens,Shari",2,"Male,Female"
+What's New Scooby-Doo?,2,The Vampire Strikes Back,7.4,Baron Fortescu,1,Male
+What's New Scooby-Doo?,2,A Scooby-Doo Halloween,7.6,"Scarecrows,Ghost of Hank Banning",2,"Male,Male"
+What's New Scooby-Doo?,2,Homeward Hound,7.2,Cat Creature,1,Male
+What's New Scooby-Doo?,2,The San Franpsycho,7.3,San Franpsycho,1,Male
+What's New Scooby-Doo?,2,Simple Plan and the Invisible Madman,7.5,Invisible Man,1,Male
+What's New Scooby-Doo?,2,Recipe for Disaster,7.5,"Scooby Snack Monster,Scooby Snack Monster",2,"Male,Male"
+What's New Scooby-Doo?,2,Large Dragon at Large,7.5,Glasburgh Dragon,1,Male
+What's New Scooby-Doo?,2,Uncle Scooby and Antarctica,7.4,Fish Creature,1,Male
+What's New Scooby-Doo?,2,"New Mexico, Old Monster",7.2,"Wakumi,Shaman",2,"Male,Male"
+Warner Bros. Picture,Movie,Scooby-Doo 2: Monsters Unleashed,5.1,"Masked Figure,Pterodactyl Ghost,Black Knight Ghost,Cotton Candy Glob,Tar Monster,Minder 49er,Captain Cutler's Ghost,Zombie,10000 Volt Ghost,Skeleton Men,Skeleton Men",11,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+What's New Scooby-Doo?,2,It's All Greek to Scooby,7.4,Centaur,1,Male
+Warner Home Video,Movie,Scooby-Doo! and the Loch Ness Monster,6.7,"Loch Ness Monster,Loch Ness Monster",2,"Female,Female"
+What's New Scooby-Doo?,3,Fright House of a Lighthouse,8,"Creepy Keeper,Skeleton Crew",2,"Male,Male"
+What's New Scooby-Doo?,3,"Go West, Young Scoob",7.2,"Sheriff,Cold Steel,Other Robot Cowboys",3,"Male,Male,Male"
+Warner Home Video,Movie,"Aloha, Scooby-Doo!",6.4,"Wiki-Tiki,Tiny Tikis",2,"Male,Male"
+What's New Scooby-Doo?,3,A Scooby-Doo Valentine,7.5,"Clone Fred,Clone Daphnie,Clone Velma,Clone Shaggy,Clone Scooby",5,"Male,Female,Female,Male,Male"
+What's New Scooby-Doo?,3,Wrestle Maniacs,7.4,Titanic Twist,1,Male
+What's New Scooby-Doo?,3,Ready to Scare,7.5,Gargoyle,1,Male
+What's New Scooby-Doo?,3,Farmed & Dangerous,7.3,Demon Farmer,1,Male
+What's New Scooby-Doo?,3,Diamonds Are a Ghoul's Best Friend,7,Frozen Fiend,1,Male
+What's New Scooby-Doo?,3,A Terrifying Round with a Menacing Metallic Clown,7.6,Menacing Metallic Clown,1,Male
+What's New Scooby-Doo?,3,Camp Comeoniwannascareya,7.5,Toxic Terror,1,Male
+What's New Scooby-Doo?,3,Block-Long Hong Kong Terror,7.4,Dragon,1,Male
+What's New Scooby-Doo?,3,"Gentlemen, Start Your Monsters!",7.3,Skeleton Driver,1,Male
+What's New Scooby-Doo?,3,Gold Paw,7.4,Gold Monster,1,Male
+What's New Scooby-Doo?,3,Reef Grief!,7.5,"Coral Creature,Sand Monsters",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! in Where's my Mummy?,6.7,"Ghost of Cleopatra,Army of the Undead,Spirit of the Sand",3,"Female,Male,Male"
+What's New Scooby-Doo?,3,E-Scream,7.4,Osomons,1,Male
+Warner Home Video,Movie,Scooby-Doo! Pirates Ahoy!,6.7,"Cptn. Skunk Beard,Wooden Wally,Sea Salt Sally,Cptn. Skunk Beard's Crew",4,"Male,Male,Female,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Shags to Riches,6.1,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,8,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal",15,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,More Fondue for Scooby-Doo,5,"Dr. Phineus Phibes,Agent 3,Agent 4,Agent 5,Agent 6,Agent 7,Agent,9,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebal,Misty Swiss",13,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Female"
+Shaggy & Scooby-Doo Get a Clue!,1,High Society Scooby,6,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 8,Agent 11,Dr. Trebla",7,"Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Party Arty,5.9,"Dr. Phineus Phibes,A.R.T.,Agent 2,Dr. Trebla",4,"Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Smart House,5.9,"Dr. Phineus Phibes,Dr. Trebla,Kevin,Mark,Ricky,Agent 1,Agent 2",7,"Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Lightning Strikes Twice,5.5,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 10,Agent 11,Agent 12,Agent 13,Dr. Trebla",11,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Don't Feed the Animals,5.8,"Dr. Phineus Phibes,Bruce,Brucey,Agent 13,Mark,Ricky,Dr. Trebla",7,"Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Mysterty of the Missing Mystery Solvers,6.9,"Dr. Phineus Phibes,Agent 4,Agent 13",3,"Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Chefs of Steel,5.1,"Dr. Phineus Phibes,Dr. Trebla,Chef Suki Sukihari,Agent 2,Agent 5,Agent 8",6,"Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Almost Ghosts,6.1,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky",6,"Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Pole to Pole,6.1,"Dr. Phineus Phibes,Dr. Trebla,Dr. Speed,Agent 1,Agent 2,Agent 5,Agent 6,Agent 8,Agent 11,Agent 12,Agent 13",11,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Big Trouble,5.9,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Mark,Ricky,Agent,4,Agent 7,Agent 11",9,"Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,1,Operation Dog and Hippy Boy,5.1,"Dr. Phineus Phibes,Menace,Mr. Invisible,Cat Lady,Agent 2",5,"Male,Male,Male,Female,Male"
+Warner Home Video,Movie,"Chill Out, Scooby-Doo!",6.7,Abominable Snowman,1,Male
+Shaggy & Scooby-Doo Get a Clue!,2,Shaggy and Scooby World,5.3,"Dr. Phineus Phibes,Dr. Trebla,Agent 1,Agent 2,Agent 5,Agent 6,Agent 7,Agent 9,Mark,Ricky",10,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Almost Purr-fect,5.2,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace",8,"Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Inside Job,5.9,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 6,Agent 8,Agent 9,Dr Trebla",10,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Zoinksman,5.5,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 5,Agent 7,Agent 8,Agent 9,Agent 11,Agent 12,Agent 13,Dr Trebla",13,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,The Many Faces of Evil,5.4,"Dr. Phineus Phibes,Clown Phibes,Evil Phibes,Peekaboo Phibes,Klepto Phibes,Kung Fu Phibes,Pirate Phibes,Pantsing Phibes,Mark,Ricky,Dr. Trebla",11,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Crusin' for a Brusin',5.6,"Dr. Phineus Phibes,Agent 1,Agent 2,Dr. Trebla",4,"Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,There's a Doctor in the House,5.5,"Dr. Phineus Phibes,Evil Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 13,Dr. Trebla",8,"Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Super Scary Movie Night,5.4,"Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Rusty,Bacon,Mummy,Frankenstein,Dracula,Swamp Monster",12,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Runaway Robi,4.8,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 7,Agent 8,Agent 9,Agent 11,Agent 13,Mark,Ricky,Dr. Trebla",13,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Don't Get a Big Head,4.6,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 3,Agent 4,Agent 8,Agent 9,Agent 11,Dr. Trebla",9,"Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Scooby Dudes,6.2,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Mark,Ricky,Dr. Trebla,Menace,Super Bulls,Cocky",9,"Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Zoinks the Wonder Dog,5.1,"Zoinks,Dr. Phineus Phibes,Agent 1,Agent 2,Mark,Ricky,Dr. Trebla,Groovy Don",8,"Male,Male,Male,Male,Male,Male,Male,Male"
+Shaggy & Scooby-Doo Get a Clue!,2,Uncle Albert Alert,5.8,"Dr. Phineus Phibes,Agent 1,Agent 2,Agent 4,Agent 5,Agent 13,Agent 21,Agent 44,Agent 89,Mark,Ricky,Dr. Trebla",12,"Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male,Male"
+Warner Home Video,Movie,Scooby-Doo! and the Goblin King,6.4,"Amazing Krudsky,Glob,Glum,Headless Horseman,Goblin King,Goblins",6,"Male,Male,Male,Male,Male,Male"
+Warner Home Video,Movie,Scooby-Doo! and the Samurai Sword,6.5,"Black Samurai,Ninjas",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! The Mystery Begins,5.3,"Specter,Ezekial Gallows,Prudence Prufrock",3,"Male,Male,Female"
+Warner Home Video,Movie,Scooby-Doo! Abracadabra-Doo,7.1,"Gryphon,Banshee",2,"Male,Female"
+Scooby-Doo Mystery Incorporated,1,Beware the Beast From Below,7.9,Slime Mutant,1,Male
+Scooby-Doo Mystery Incorporated,1,The Creeping Creatures,7.8,"Creeping Creatures,Creeping Creatures,Creeping Creatures",3,"Male,Female,Male"
+Scooby-Doo Mystery Incorporated,1,The Secret of the Ghost Rig,7.7,Ghost Truck,1,Male
+Scooby-Doo Mystery Incorporated,1,Revenge of the Man Crab,7.7,Man-Crab,1,Male
+Scooby-Doo Mystery Incorporated,1,The Song of Mystery,8,"Que Horrifico,Spookified Kids",2,"Male,Male"
+Scooby-Doo Mystery Incorporated,1,The Legend of Alice May,8.5,Ghost Girl,1,Female
+Scooby-Doo Mystery Incorporated,1,In Fear of the Phantom,8.2,Phantom,1,Male
+Scooby-Doo Mystery Incorporated,1,The Grasp of the Gnome,7.8,Gnome,1,Male
+Scooby-Doo Mystery Incorporated,1,Battle of the Humungonauts,7.6,"Green Humungonaut,Red Humungonaut",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! Camp Scare,7.3,"Woodsman,Fishman,Specter of Shadow Canyon",3,"Male,Male,Female"
+Scooby-Doo Mystery Incorporated,1,Howl of the Fright Hound,8.2,Fright Hound,1,Male
+Scooby-Doo Mystery Incorporated,1,The Secret Serum,8.1,Vampire,1,Female
+Scooby-Doo Mystery Incorporated,1,The Shrieking Madness,8.4,Char Gar Gothakon,1,Male
+Scooby-Doo Mystery Incorporated,1,When the Cicada Calls,8,Cicada Creature,1,Male
+Warner Home Video,Movie,Scooby-Doo! Curse of the Lake Monster,4.9,"Wanda Grubwort,Lake Monsters",2,"Female,Male"
+Scooby-Doo Mystery Incorporated,1,Mystery Solvers Club State Finals,8.2,Lord Infernicus,1,Male
+Scooby-Doo Mystery Incorporated,1,The Wild Brood,7.7,Shadowy Orc,1,Male
+Scooby-Doo Mystery Incorporated,1,Where Walks Aphrodite,8.2,Aphrodite,1,Female
+Scooby-Doo Mystery Incorporated,1,Escape from Mystery Manor,8.8,Danny Darrow,1,Male
+Scooby-Doo Mystery Incorporated,1,The Dragon's Secret,8.2,White Wizard,1,Male
+Scooby-Doo Mystery Incorporated,1,Nightfright,8.5,Nightfright,1,Male
+Scooby-Doo Mystery Incorporated,1,The Siren's Song,8.1,"Fish Freaks,Fish Freaks,Fish Freaks,Fish Freaks",4,"Male,Male,Male,Male"
+Scooby-Doo Mystery Incorporated,1,Menace of the Manticore,8.2,Manticore,1,Male
+Scooby-Doo Mystery Incorporated,1,Attack of the Headless Horror,8.1,Headless Horror,1,Male
+Scooby-Doo Mystery Incorporated,1,A Haunting in Crystal Cove,8.6,Shadowy Figure,1,Male
+Scooby-Doo Mystery Incorporated,1,Dead Justice,8.2,Ghost of Dead Justice,1,Male
+Scooby-Doo Mystery Incorporated,1,Pawn of Shadows,8.8,Obliteratrix,1,Female
+Scooby-Doo Mystery Incorporated,1,All Fear the Freak,9.2,Freak of Crystal Cove,1,Male
+Warner Home Video,Movie,Scooby-Doo! Legend of the Phantosaur,6.8,"Phantosaurs,Velociraptor",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! Music of the Vampire,6.5,Lord Valdronya,1,Male
+Warner Home Video,Special,Scooby-Doo! Spooky Games,6.9,Fortius,1,Male
+Scooby-Doo Mystery Incorporated,2,The Night the Clown Cried,8.5,Crybaby Clown,1,Male
+Scooby-Doo Mystery Incorporated,2,The House of the Nightmare Witch,7.9,"Baba Yaga House,Baba Yaga",2,"Male,Female"
+Scooby-Doo Mystery Incorporated,2,The Night the Clown Cried II - Tears of Doom,8.4,Crybaby Clown,1,Male
+Scooby-Doo Mystery Incorporated,2,Web of the Dreamweaver!,8.2,Dreamweaver,1,Male
+Scooby-Doo Mystery Incorporated,2,The Hodag of Horror,8.4,Hodag of Horror,1,Male
+Scooby-Doo Mystery Incorporated,2,Art of Darkness,7.7,Junk,1,Male
+Scooby-Doo Mystery Incorporated,2,The Gathering Gloom,8.2,Graveyard Ghoul,1,Male
+Scooby-Doo Mystery Incorporated,2,Night on Haunted Mountain,8.3,Dark Lilith,1,Female
+Scooby-Doo Mystery Incorporated,2,Grrim Judgment,8.3,Hebediah Grim,1,Male
+Scooby-Doo Mystery Incorporated,2,Night Terrors,9.1,Fiend,1,Male
+Scooby-Doo Mystery Incorporated,2,The Midnight Zone,8.7,"Kriegstaffebot,Ghost of Abigail Gluck",2,"Male,Female"
+Scooby-Doo Mystery Incorporated,2,Scarebear,8.2,Scarebear,1,Male
+Scooby-Doo Mystery Incorporated,2,Wrath of the Krampus,8.9,Krampus,1,Male
+Scooby-Doo Mystery Incorporated,2,Heart of Evil,7.6,Dragon,1,Male
+Scooby-Doo Mystery Incorporated,2,Theater of Doom,8.6,Mummy of Friar Serra,1,Male
+Warner Home Video,Movie,Big Top Scooby-Doo!,6.9,"Werewolf,Werewolf,Werewolf,Werewolf",4,"Male,Male,Male,Male"
+Warner Home Video,Special,Scooby-Doo! Haunted Holidays,7,Sinister Snowman,1,Male
+Warner Home Video,Movie,Scooby-Doo! Mask of the Blue Falcon,6.8,Mr. Hyde,1,Male
+Scooby-Doo Mystery Incorporated,2,Aliens Among Us,8,"Grey Alien,Reptiod,Nordic Alien",3,"Male,Male,Female"
+Scooby-Doo Mystery Incorporated,2,The Horrible Herd,8.3,"Skull Cattles,Skull Cattle Queen",2,"Male,Female"
+Scooby-Doo Mystery Incorporated,2,Dance of the Undead,8,"Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics,Rude Boy and the Ska-Tastics",4,"Male,Male,Male,Male"
+Scooby-Doo Mystery Incorporated,2,The Devouring,7.8,Gluton Demon,1,Male
+Scooby-Doo Mystery Incorporated,2,Stand and Deliver,8.3,Dandy Highwayman,1,Male
+Scooby-Doo Mystery Incorporated,2,The Man in the Mirror,8.9,"Evil Fred,Evil Daphnie",2,"Male,Female"
+Scooby-Doo Mystery Incorporated,2,Nightmare in Red,8.9,Monstrous Freak,1,Male
+Scooby-Doo Mystery Incorporated,2,Dark Night of Hunters,8.4,Priestess,1,Female
+Scooby-Doo Mystery Incorporated,2,Gates of Gloom,8.7,Kriegstaffebot,1,Male
+Scooby-Doo Mystery Incorporated,2,Through the Curtain,9,Evil Entity,1,Male
+Scooby-Doo Mystery Incorporated,2,Come Undone,9.3,"Evil Entity,Minions",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo Adventure: The Mystery Map!,5.1,"Ye Phantom Parrot,Ghost of Gnarlybeard",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! Stage Fright,7.1,Phantom,1,Male
+Warner Home Video,Special,Scooby-Doo! and the Spooky Scarecrow,7.3,Cornfield Clem,1,Male
+Warner Home Video,Special,Scooby-Doo! Mecha Mutt Menace,6.5,Mecha Mutt,1,Male
+Warner Home Video,Movie,Scooby-Doo! Wrestlemania Mystery,6.3,Ghost Bear,1,Male
+Warner Home Video,Special,Scooby-Doo! Ghastly Goals!,6.6,Eshu,1,Male
+Warner Home Video,Movie,Scooby-Doo! Frankencreepy,6.7,"Ghost of the Baron,Frankencreep",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! Moon Monster Madness,6.5,Alien,1,Male
+Warner Home Video,Special,Scooby-Doo! and the Beach Beastie,7.1,Sea Monster,1,Male
+Warner Home Video,Movie,Scooby-Doo! KISS: Rock and Roll Mystery,6.5,"Witch,KISS Monsters,Harpies,The Destroyer",4,"Female,Male,Female,Male"
+"Be Cool, Scooby-Doo!",1,Mystery 101,7.9,Ghost of Elias Kingston,1,Male
+"Be Cool, Scooby-Doo!",1,Game of Chicken,7.2,Spirit of the Zatari Warrior,1,Male
+"Be Cool, Scooby-Doo!",1,All Pawns on Deck,7.4,"Sea Creature,Sea Creature",2,"Male,Male"
+"Be Cool, Scooby-Doo!",1,Poodle Justice,7.3,Gargoyle,1,Male
+"Be Cool, Scooby-Doo!",1,Grand Scam,7.3,Ghost of Chip Braverton,1,Male
+"Be Cool, Scooby-Doo!",1,Trading Chase,7.6,Sobek,1,Male
+"Be Cool, Scooby-Doo!",1,"Be Quiet, Scooby-Doo!",7.5,Crystal Crawler,1,Male
+"Be Cool, Scooby-Doo!",1,Party Like It's 1899,8.2,Headless Count,1,Male
+"Be Cool, Scooby-Doo!",1,Screama Donna,7.4,Ghost of the Prima Donna,1,Female
+"Be Cool, Scooby-Doo!",1,Kitchen Frightmare,7.5,Yeti,1,Male
+"Be Cool, Scooby-Doo!",1,"Me, Myself, and A.I.",7.5,Butler 3000,1,Male
+"Be Cool, Scooby-Doo!",1,Area 51 Adjacent,7.4,Alien,1,Male
+"Be Cool, Scooby-Doo!",1,"Where There's a Will, There's a Wraith",7.5,Phantom,1,Male
+Lego,Special,Scooby-Doo! Knight Time Terror,6.6,Black Knight,1,Male
+"Be Cool, Scooby-Doo!",1,Scary Christmas,7.4,Pterodactyl,1,Male
+"Be Cool, Scooby-Doo!",1,"If You Can't Scooby-Doo the Time,Don't Scooby-Doo the Crime",7.7,Ghost of Stealin' Stan,1,Male
+"Be Cool, Scooby-Doo!",1,Gremlin on a Plane,7.8,Gremlin,1,Male
+"Be Cool, Scooby-Doo!",1,Sorcerer Snacks Scare,7.9,Sorcerer,1,Male
+"Be Cool, Scooby-Doo!",1,Saga of the Swamp Beast,8.2,Swamp Monster,1,Male
+"Be Cool, Scooby-Doo!",1,"Be Cold, Scooby-Doo!",7.5,Snow Monster,1,Male
+Lego,Movie,LEGO Scooby-Doo! Haunted Hollywood,5.9,"Headless Horseman,Mummy,Zombie",3,"Male,Male,Male"
+"Be Cool, Scooby-Doo!",1,Giant Problems,7.4,Giant,1,Male
+"Be Cool, Scooby-Doo!",1,Eating Crow,7.4,"Scarecrow,Scarecrow",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! and WWE: Curse of the Speed Demon,6.2,Inferno,1,Male
+Warner Home Video,Movie,Scooby-Doo! Shaggy's Showdown,6.8,Ghost of Dapper Jack Rogers,1,Male
+"Be Cool, Scooby-Doo!",1,I Scooby Dooby Do,7.2,Ghost of the Cliff Bride,1,Female
+"Be Cool, Scooby-Doo!",1,El Bandito,7.6,Spirit of El Bandito,1,Male
+"Be Cool, Scooby-Doo!",1,Into the Mouth Madcap,7.2,Madcap the Killer Clown,1,Male
+"Be Cool, Scooby-Doo!",1,The Norse Case Scenario,7.3,"Viking Ghosts,Viking Ghosts,Viking Ghosts",3,"Male,Male,Male"
+"Be Cool, Scooby-Doo!",1,The People vs. Fred Jones,7.7,Toxic Mutant,1,Male
+Lego,Movie,LEGO Scooby-Doo! Blowout Beach Bash,5.6,"Ghost Pirate,Ghost Pirate",2,"Male,Female"
+"Be Cool, Scooby-Doo!",2,Some Fred Time,8.2,Dorsal Foot,1,Male
+"Be Cool, Scooby-Doo!",2,There Wolf,7.5,Werewolf,1,Male
+"Be Cool, Scooby-Doo!",2,Renn Scare,7.4,Jester Monster,1,Male
+"Be Cool, Scooby-Doo!",2,How to Train Your Coward,7.6,Vampire,1,Male
+"Be Cool, Scooby-Doo!",2,Worst in Show,7.1,Houndbeast,1,Male
+"Be Cool, Scooby-Doo!",2,Mysteries on the Disorient Express,7.5,"Grim Reaper,Mummy,Tengu,Tarasque,Tzitzimitl,Manticore,Haniver,Hemogoblin",8,"Male,Male,Male,Male,Female,Male,Male,Male"
+"Be Cool, Scooby-Doo!",2,Halloween,7.4,"Baba Yaga,Baba Yaga House",2,"Female,Male"
+"Be Cool, Scooby-Doo!",2,The Curse of Kaniaku,7.5,Kaniaku,1,Male
+"Be Cool, Scooby-Doo!",2,Vote Velma,6.6,Ghost of Amos Littlefield,1,Male
+"Be Cool, Scooby-Doo!",2,Scroogey Doo,7.7,"Ghost of Jacob Marley,Ghost of Christmas Past,Ghost of Christmas Present,Ghost of Christmas Future",4,"Male,Female,Male,Male"
+"Be Cool, Scooby-Doo!",2,In Space,8,Space Kook,1,Male
+"Be Cool, Scooby-Doo!",2,Doo Not Distrub,7.9,Ghost of Mother,1,Female
+"Be Cool, Scooby-Doo!",2,Silver Scream,7.4,Ghost of Archie Barnes,1,Male
+"Be Cool, Scooby-Doo!",2,Fright of Hand,7.2,Mutant Rabbit,1,Male
+"Be Cool, Scooby-Doo!",2,Greece in the World,6.7,Arachne,1,Female
+Warner Home Video,Movie,Batman: The Brave and the Bold: Bat-Mite Presents: Batman's Strangest Cases!,6.6,Crimson Cloak,1,Male
+"Be Cool, Scooby-Doo!",2,American Goth,7.1,Plant Monster,1,Male
+"Be Cool, Scooby-Doo!",2,Omelettes Are Forever,7.2,Minus,1,Male
+"Be Cool, Scooby-Doo!",2,Ghost in the Mystery Machine,7.4,The Mystery Machine,1,Female
+"Be Cool, Scooby-Doo!",2,Naughty or Ice,7.4,Ice Man,1,Male
+"Be Cool, Scooby-Doo!",2,Night of the Upsetting Shorts,7.3,Ape Man,1,Male
+"Be Cool, Scooby-Doo!",2,Junkyard Dogs,6.9,Trash Monster,1,Male
+"Be Cool, Scooby-Doo!",2,Protein Titans 2,6.7,Ghost Chef,1,Male
+"Be Cool, Scooby-Doo!",2,World of Witchcraft,6.9,Demon of Salem,1,Male
+"Be Cool, Scooby-Doo!",2,Professor Huh? Part 1,7.8,Professor Huh?,1,Male
+"Be Cool, Scooby-Doo!",2,Professor Huh? Part 6 3/4,7.9,Professor Huh?,1,Male
+"Be Cool, Scooby-Doo!",2,Pizza O'Possumm's,6.8,Pizza O'Possum,1,Male
+"Be Cool, Scooby-Doo!",2,The Curse of Half-Beard's Booty,6.8,Half-Beard's Ghost,1,Male
+Supernatural,Crossover,Scoobynatural,9.6,"Phantasm,Ghost Kid",2,"Male,Male"
+Warner Home Video,Movie,Daphne & Velma,4.2,NULL,0,NULL
+Warner Home Video,Movie,Scooby-Doo! and the Gourmet Ghost,7.3,Red Ghost,1,Male
+OK K.O.!,Crossover,Monster Party,8.1,Living Tree,1,Male
+Warner Home Video,Movie,Scooby-Doo! and the Curse of the 13th Ghost,6.5,Asmodeus,1,Male
+Scooby-Doo and Guess Who?,1,Revenge of the Swamp Monster,7,Swamp Monster,1,Male
+Scooby-Doo and Guess Who?,1,A Mystery Solving Gang Divided,7.9,Civil War Zombie Ghosts,1,Male
+Scooby-Doo and Guess Who?,1,Peebles' Pet Show of Terrible Terrors!,7.9,Fish Monster,1,Male
+Scooby-Doo and Guess Who?,1,"Elementary, My Dear Shaggy!",8.1,Screaming Skulls of London,1,Male
+Warner Home Video,Movie,Scooby-Doo! Return to Zombie Island,5.7,"Zombies,Werecat Simone Lenoir,Werecat Lena Dupree,Werecat Jacques,Werecat",5,"Male,Female,Female,Male,Male"
+Scooby-Doo and Guess Who?,1,Ollie Ollie In-Come Free!,7.3,Cat Mummy,1,Male
+Scooby-Doo and Guess Who?,1,The Scooby of a Thousand Faces!,8.1,Minotaur,1,Male
+Scooby-Doo and Guess Who?,1,The Cursed Cabinet of Professor Madds Markson,8.3,"Ghost of Madds Markson,Madds Markson Monster",2,"Male,Male"
+Scooby-Doo and Guess Who?,1,When Urkel-Bots Go Bad!,6.5,Technomancer,1,Male
+Scooby-Doo and Guess Who?,1,The Fastest Food Fiend!,7.5,Spectral Speedster,1,Male
+Scooby-Doo and Guess Who?,1,Attack of the Weird Al-Osaurus!,7.5,"Dinosaur,Dinosaur",2,"Male,Male"
+Scooby-Doo and Guess Who?,1,"Now You Sia, Now You Don't!",7.4,Sia Doppelganger,1,Female
+Scooby-Doo and Guess Who?,1,Quit Clowning!,7.4,Pazzo the Ghost Clown,1,Male
+Scooby-Doo and Guess Who?,1,"What a Night, for a Dark Knight",8.7,Man-Bat,1,Male
+Teen Titans,Crossover,Cartoon Feud,6.4,Control Freak,1,Male
+Warner Bros. Picture,Movie,SCOOB!,5.7,"Rotten Robots,Dick Dastardly,Muttley,Cerberus",4,"Male,Male,Male,Male"
+Scooby-Doo and Guess Who?,1,The Nightmare Ghost of Psychic U!,8.1,Nightmare Ghost,1,Male
+Scooby-Doo and Guess Who?,1,"The Sword, the Fox and the Scooby-Doo!",8.8,Fox Monster,1,Male
+Scooby-Doo and Guess Who?,1,One Minuite Mysteries!,7.9,"Miner Forty-Niner,Ghost of Captain Cutler,Spooky Space Kook,Snow Ghost,Clown,Ghost of Redbeard,Back Knight,Witch,Witch Doctor,Phantom,Creeper,Giant Teddy Bear",12,"Male,Male,Male,Male,Male,Male,Male,Female,Male,Male,Male,Male"
+Scooby-Doo and Guess Who?,1,Hollywood Knights!,8.1,Ghost of the Doom Bringer,1,Male
+Scooby-Doo and Guess Who?,1,The New York Underground!,7.8,Gator Man Monster,1,Male
+Scooby-Doo and Guess Who?,1,Fear the Fire Beast!,7.7,Fire Monster of Mount Etna,1,Male
+Scooby-Doo and Guess Who?,1,Too Many Dummies!,8.2,Crazy Carl,1,Male
+Scooby-Doo and Guess Who?,1,Dance Matron of Mayhem,7.6,Ghost of Madame Zobrinsky,1,Female
+Scooby-Doo and Guess Who?,1,The Wedding Witch of Wainsly Hall!,8.6,Wedding Witch of Wainsly Hall,1,Female
+Scooby-Doo and Guess Who?,1,A Run Cycle Through Time!,7.9,"Chronobeast,Robo Dooby Doo",2,"Male,Male"
+Scooby-Doo and Guess Who?,1,I Put a Hex on You!,8.4,Ghost of Ester Moonkiller,1,Female
+Scooby-Doo and Guess Who?,1,The High School Wolfman's Musical Lament!,7.6,Werewolf,1,Male
+Scooby-Doo and Guess Who?,1,Space Station Scooby,8.2,Tardigrade Monster,1,Male
+Warner Home Video,Movie,"Happy Halloween, Scooby-Doo!",6.3,"Alpha Jackal-Lantern,Jackal-Lanterns",2,"Male,Male"
+Warner Home Video,Movie,Scooby-Doo! The Sword and the Scoob,6.2,"Morgan le Fay,Black Knight",2,"Female,Male"
