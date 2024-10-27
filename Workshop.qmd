@@ -154,7 +154,7 @@ my_excel_data = read_excel("name_of_files.xlsx")
 
 ## Your Turn! 
 
-Go to this folder: [Data]()
+Go to this folder: [Data](https://github.com/O-PREEDASAWAKUL/RxTH_Start-with-R/tree/main/datasets)
 
 Save these in your working directory, then 
 
